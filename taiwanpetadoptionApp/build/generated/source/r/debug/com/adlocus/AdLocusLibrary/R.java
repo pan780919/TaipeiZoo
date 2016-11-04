@@ -118,8 +118,8 @@ public final class R {
 		public static final int btn_icon_set = 0x7f0200b7;
 		public static final int btn_icon_share = 0x7f0200b8;
 		public static final int btn_icon_view = 0x7f0200b9;
-		public static final int color_bigview_btn_bg_click = 0x7f020229;
-		public static final int color_bigview_btn_bg_normal = 0x7f02022a;
+		public static final int color_bigview_btn_bg_click = 0x7f02022a;
+		public static final int color_bigview_btn_bg_normal = 0x7f02022b;
 		public static final int pm_ad_logo_300 = 0x7f0201ed;
 		public static final int pm_ad_logo_320 = 0x7f0201ee;
 		public static final int pm_ad_logo_728 = 0x7f0201ef;
@@ -139,20 +139,20 @@ public final class R {
 		public static final int sl_bigview_btn_bg = 0x7f020228;
 	}
 	public static final class id {
-		public static final int ProMe_NotificationClickIcon = 0x7f0e0167;
-		public static final int ProMe_NotificationIcon = 0x7f0e0165;
-		public static final int ProMe_NotificationImage = 0x7f0e0164;
-		public static final int ProMe_NotificationLayout = 0x7f0e0163;
-		public static final int ProMe_NotificationLogo = 0x7f0e0168;
-		public static final int ProMe_NotificationText = 0x7f0e0166;
-		public static final int b_button_look = 0x7f0e00ec;
-		public static final int b_button_setting = 0x7f0e00eb;
+		public static final int ProMe_NotificationClickIcon = 0x7f0e0169;
+		public static final int ProMe_NotificationIcon = 0x7f0e0167;
+		public static final int ProMe_NotificationImage = 0x7f0e0166;
+		public static final int ProMe_NotificationLayout = 0x7f0e0165;
+		public static final int ProMe_NotificationLogo = 0x7f0e016a;
+		public static final int ProMe_NotificationText = 0x7f0e0168;
+		public static final int b_button_look = 0x7f0e00ee;
+		public static final int b_button_setting = 0x7f0e00ed;
 		public static final int b_button_share = 0x7f0e00be;
-		public static final int b_content = 0x7f0e00e9;
-		public static final int b_imageview_bigimage = 0x7f0e00ea;
-		public static final int b_imageview_icon = 0x7f0e00e6;
-		public static final int b_textview_subtitle = 0x7f0e00e8;
-		public static final int b_textview_title = 0x7f0e00e7;
+		public static final int b_content = 0x7f0e00eb;
+		public static final int b_imageview_bigimage = 0x7f0e00ec;
+		public static final int b_imageview_icon = 0x7f0e00e8;
+		public static final int b_textview_subtitle = 0x7f0e00ea;
+		public static final int b_textview_title = 0x7f0e00e9;
 	}
 	public static final class layout {
 		public static final int bv_basic = 0x7f040023;

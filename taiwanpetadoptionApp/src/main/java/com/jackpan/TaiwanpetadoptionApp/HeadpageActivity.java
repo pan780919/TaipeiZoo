@@ -171,42 +171,42 @@ public class HeadpageActivity extends Activity implements
 		GetButtonView();
 		setButtonEvent();
 		buildGoogleApiClient();
-		Firebase.setAndroidContext(this);
-		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
-
-		Firebase mFirebaseRef = new Firebase(url);
-//		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
-
-		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
-			@Override
-			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-//				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
-				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
-				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
-
-			}
-
-			@Override
-			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-				Log.d(TAG, "onChildChanged: "+ (String) dataSnapshot.child("name").getValue());
-				Log.d(TAG, "onChildChanged: "+ (Long) dataSnapshot.child("age").getValue());
-			}
-
-			@Override
-			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
-
-			}
-
-			@Override
-			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-
-			}
-
-			@Override
-			public void onCancelled(FirebaseError firebaseError) {
-
-			}
-		});
+//		Firebase.setAndroidContext(this);
+//		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
+//
+//		Firebase mFirebaseRef = new Firebase(url);
+////		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
+//
+//		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
+//			@Override
+//			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+////				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
+//				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
+//				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
+//
+//			}
+//
+//			@Override
+//			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+//				Log.d(TAG, "onChildChanged: "+ (String) dataSnapshot.child("name").getValue());
+//				Log.d(TAG, "onChildChanged: "+ (Long) dataSnapshot.child("age").getValue());
+//			}
+//
+//			@Override
+//			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
+//
+//			}
+//
+//			@Override
+//			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+//
+//			}
+//
+//			@Override
+//			public void onCancelled(FirebaseError firebaseError) {
+//
+//			}
+//		});
 //		Firebase newPostRef = mFirebaseRef.child("posts").push();
 ////		String newPostKey = newPostRef.getKey();
 //		Map newPost = new HashMap();

@@ -16,12 +16,14 @@ import android.webkit.WebView;
 import android.webkit.WebViewClient;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.TextView;
 
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
 import com.facebook.FacebookException;
 import com.facebook.FacebookSdk;
+import com.facebook.ads.AdSize;
 import com.facebook.share.Sharer;
 import com.facebook.share.model.ShareLinkContent;
 import com.facebook.share.model.SharePhoto;
@@ -56,6 +58,7 @@ public class TwoActivity extends Activity {
 	private  Button mShareBtn;
 	CallbackManager callbackManager;
 	ShareDialog shareDialog;
+	private com.facebook.ads.AdView adView,adView2,adView3;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -67,6 +70,7 @@ public class TwoActivity extends Activity {
 		setContentView(R.layout.activity_two);
 		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 		mAdView = (AdView) findViewById(R.id.adView);
+		setAd();
 		checkBuyAd();
 		initLayout();
 		loadIntent();
@@ -109,7 +113,7 @@ public class TwoActivity extends Activity {
 	}
 	private  void initLayout(){
 
-		MyGAManager.sendScreenName(this,"資料頁面");
+//		MyGAManager.sendScreenName(this,"資料頁面");
 		mShareBtn = (Button) findViewById(R.id.b_button_share);
 
 		textview = (TextView) findViewById(R.id.textView1);
@@ -173,9 +177,9 @@ public class TwoActivity extends Activity {
 			public void onClick(View v) {
 				if (ShareDialog.canShow(ShareLinkContent.class)) {
 					ShareLinkContent linkContent = new ShareLinkContent.Builder()
-							.setContentTitle("請支持認養代替購買")
-							.setContentDescription("台灣流浪動物認養APP")
-							.setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp"))
+							.setContentTitle("我只推薦好APP")
+							.setContentDescription("動物園好好玩")
+							.setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo"))
 							.setImageUrl(Uri.parse(data.A_Pic01_URL))
 							.build();
 					shareDialog.show(linkContent);
@@ -350,5 +354,21 @@ public class TwoActivity extends Activity {
 		super.onActivityResult(requestCode, resultCode, data);
 		callbackManager.onActivityResult(requestCode, resultCode, data);
 	}
+	private  void setAd(){
+		RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
+		adView = new com.facebook.ads.AdView(this, "583698071813390_587400221443175", AdSize.RECTANGLE_HEIGHT_250);
+		adViewContainer.addView(adView);
+		adView.loadAd();
 
+		RelativeLayout adViewContainer2 = (RelativeLayout) findViewById(R.id.adViewContainer2);
+		adView2 = new com.facebook.ads.AdView(this, "583698071813390_587400221443175", AdSize.RECTANGLE_HEIGHT_250);
+		adViewContainer2.addView(adView2);
+		adView2.loadAd();
+
+		RelativeLayout adViewContainer3 = (RelativeLayout) findViewById(R.id.adViewContainer3);
+		adView3 = new com.facebook.ads.AdView(this, "583698071813390_587400221443175", AdSize.RECTANGLE_HEIGHT_250);
+		adViewContainer3.addView(adView3);
+		adView3.loadAd();
+
+	}
 }

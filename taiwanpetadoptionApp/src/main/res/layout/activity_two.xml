@@ -35,7 +35,7 @@
                            android:layout_width="wrap_content"
                            android:layout_height="wrap_content"
                            android:id="@+id/b_button_share"
-                           android:text="分享寵物資訊至Facebook"
+                           android:text="分享資訊至Facebook"
                            >
 
                        </Button>
@@ -240,9 +240,11 @@
                     android:src="@drawable/nophoto"
                     >
                 </ImageView>
-                                <View            
+                <RelativeLayout
+                    android:id="@+id/adViewContainer"
                     android:layout_width="wrap_content"
-                    android:layout_height="20dp" />
+                    android:layout_height="wrap_content"
+                    />
 
                 <TextView
                     android:id="@+id/textView16"
@@ -262,9 +264,11 @@
                     >
 
                 </ImageView>
-                                <View            
+                <RelativeLayout
+                    android:id="@+id/adViewContainer2"
                     android:layout_width="wrap_content"
-                    android:layout_height="20dp" />
+                    android:layout_height="wrap_content"
+                    />
 
                 <TextView
                     android:id="@+id/textView18"
@@ -285,10 +289,12 @@
                     >
 
                 </ImageView>
-                
-                <View            
+
+                <RelativeLayout
+                    android:id="@+id/adViewContainer3"
                     android:layout_width="wrap_content"
-                    android:layout_height="20dp" />
+                    android:layout_height="wrap_content"
+                    />
 
                 <TextView
                     android:id="@+id/textView20"

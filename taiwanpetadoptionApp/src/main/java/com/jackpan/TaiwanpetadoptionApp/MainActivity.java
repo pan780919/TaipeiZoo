@@ -86,7 +86,7 @@ public class MainActivity extends Activity {
 //        requestWindowFeature(Window.FEATURE_NO_TITLE);
 		setContentView(R.layout.activity_main);
 		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
-		MyGAManager.sendScreenName(this,"搜尋頁面");
+//		MyGAManager.sendScreenName(this,"搜尋頁面");
 		progressDialog = ProgressDialog.show(MainActivity.this, "讀取中", "目前資料量比較龐大，請耐心等候！！", false, false, new DialogInterface.OnCancelListener() {
 
 			@Override
