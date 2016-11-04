@@ -6,6 +6,7 @@
     </shared>
   </component>
   <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_CUSTOM_FILTER" value="onComplete" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
@@ -29,19 +30,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="TwoActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/TwoActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-55.051723">
-              <caret line="178" column="69" selection-start-line="178" selection-start-column="69" selection-end-line="178" selection-end-column="69" />
-              <folding>
-                <element signature="e#6148#6921#0" expanded="true" />
-                <element signature="e#6920#6921#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="URApiType.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/URApiType.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,36 +85,45 @@
       <file leaf-file-name="HeadpageActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0827206">
-              <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.6746324">
+              <caret line="215" column="44" selection-start-line="215" selection-start-column="44" selection-end-line="215" selection-end-column="44" />
               <folding>
-                <element signature="e#2515#2549#0" expanded="true" />
-                <element signature="e#2568#2598#0" expanded="true" />
-                <element signature="e#2651#2678#0" expanded="true" />
-                <element signature="e#3005#3031#0" expanded="true" />
-                <element signature="e#3360#3390#0" expanded="true" />
-                <element signature="e#3392#3420#0" expanded="true" />
-                <element signature="e#4509#4543#0" expanded="true" />
+                <element signature="e#2908#2942#0" expanded="true" />
+                <element signature="e#2961#2991#0" expanded="true" />
+                <element signature="e#3044#3071#0" expanded="true" />
+                <element signature="e#3398#3424#0" expanded="true" />
+                <element signature="e#3753#3783#0" expanded="true" />
+                <element signature="e#3785#3813#0" expanded="true" />
+                <element signature="e#4902#4936#0" expanded="true" />
+                <element signature="e#6975#7233#0" expanded="true" />
+                <element signature="e#7232#7233#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/MainActivity.java">
+      <file leaf-file-name="Query.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar!/com/firebase/client/Query.class">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-35.0">
-              <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
-              <folding>
-                <element signature="e#16116#16591#0" expanded="true" />
-                <element signature="e#16590#16591#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-80.07143">
+              <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestSetting.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/RequestSetting.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/admobadapter/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -135,8 +132,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RequestResponseListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/RequestResponseListener.java">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -809,14 +806,19 @@
                 <option name="name" value="prepareComAndroidSupportCustomtabs2500Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:mediarouter-v7:23.0.0" />
+                <option name="description" value="Prepare com.android.support:mediarouter-v7:24.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComAndroidSupportMediarouterV72300Library" />
+                <option name="name" value="prepareComAndroidSupportMediarouterV72400Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:multidex:1.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="prepareComAndroidSupportMultidex101Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:palette-v7:24.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportPaletteV72400Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:support-compat:25.0.0" />
@@ -869,154 +871,184 @@
                 <option name="name" value="prepareComGoogleAndroidExoplayerExoplayerR158Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServices900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServices980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-ads:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-ads:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAds900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAds980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-ads-lite:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-ads-lite:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAdsLite900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAdsLite980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-analytics:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-analytics:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalytics900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalytics980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-analytics-impl:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-analytics-impl:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalyticsImpl900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalyticsImpl980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-appindexing:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-appindexing:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppindexing900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppindexing980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-appinvite:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-appinvite:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppinvite900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppinvite980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-auth:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-auth:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuth900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuth980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-auth-base:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-auth-base:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuthBase900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuthBase980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-base:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-awareness:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBase900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAwareness980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-basement:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-base:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBasement900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBase980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-cast:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-basement:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesCast900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBasement980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-drive:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-cast:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesDrive900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesCast980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-fitness:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-cast-framework:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesFitness900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesCastFramework980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-games:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-clearcut:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGames900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesClearcut980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-gcm:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-drive:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGcm900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesDrive980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-identity:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-fitness:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIdentity900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesFitness980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-iid:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-games:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIid900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGames980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-location:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-gass:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesLocation900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGass980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-maps:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-gcm:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesMaps900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGcm980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-nearby:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-identity:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesNearby900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIdentity980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-panorama:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-iid:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPanorama900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIid980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-plus:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-instantapps:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPlus900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesInstantapps980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-safetynet:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-location:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesSafetynet900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesLocation980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-maps:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanager900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesMaps980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager-api:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-nearby:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanagerApi900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesNearby980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tasks:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-panorama:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTasks900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPanorama980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-vision:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-places:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesVision900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPlaces980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-wallet:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-plus:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWallet900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPlus980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-wearable:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-safetynet:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWearable900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesSafetynet980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanager980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager-api:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanagerApi980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tasks:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTasks980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-vision:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesVision980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-wallet:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWallet980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-wearable:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWearable980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.firebase:firebase-ads:9.0.0" />
@@ -1024,79 +1056,79 @@
                 <option name="name" value="prepareComGoogleFirebaseFirebaseAds900Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-analytics:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-analytics:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalytics900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalytics980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-analytics-impl:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-analytics-impl:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalyticsImpl900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalyticsImpl980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-auth:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-auth:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAuth900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAuth980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-auth-common:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-auth-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthCommon900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthCommon980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-auth-module:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-auth-module:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthModule900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthModule980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-common:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseCommon900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseCommon980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-config:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-config:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseConfig900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseConfig980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-core:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-core:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseCore900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseCore980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-crash:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-crash:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseCrash900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseCrash980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-database:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-database:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabase900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabase980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-database-connection:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-database-connection:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabaseConnection900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabaseConnection980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-iid:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-iid:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseIid900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseIid980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-messaging:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-messaging:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseMessaging900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseMessaging980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-storage:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-storage:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseStorage900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseStorage980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-storage-common:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-storage-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseStorageCommon900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseStorageCommon980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare TaipeiZoo:admobadapter:unspecified" />
@@ -2100,14 +2132,19 @@
                 <option name="name" value="prepareComAndroidSupportCustomtabs2500Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.android.support:mediarouter-v7:23.0.0" />
+                <option name="description" value="Prepare com.android.support:mediarouter-v7:24.0.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComAndroidSupportMediarouterV72300Library" />
+                <option name="name" value="prepareComAndroidSupportMediarouterV72400Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:multidex:1.0.1" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
                 <option name="name" value="prepareComAndroidSupportMultidex101Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:palette-v7:24.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComAndroidSupportPaletteV72400Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.android.support:recyclerview-v7:23.2.0" />
@@ -2165,154 +2202,184 @@
                 <option name="name" value="prepareComGoogleAndroidExoplayerExoplayerR158Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServices900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServices980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-ads:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-ads:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAds900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAds980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-ads-lite:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-ads-lite:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAdsLite900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAdsLite980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-analytics:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-analytics:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalytics900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalytics980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-analytics-impl:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-analytics-impl:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalyticsImpl900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAnalyticsImpl980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-appindexing:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-appindexing:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppindexing900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppindexing980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-appinvite:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-appinvite:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppinvite900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAppinvite980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-auth:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-auth:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuth900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuth980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-auth-base:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-auth-base:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuthBase900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAuthBase980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-base:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-awareness:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBase900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesAwareness980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-basement:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-base:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBasement900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBase980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-cast:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-basement:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesCast900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesBasement980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-drive:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-cast:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesDrive900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesCast980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-fitness:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-cast-framework:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesFitness900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesCastFramework980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-games:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-clearcut:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGames900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesClearcut980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-gcm:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-drive:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGcm900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesDrive980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-identity:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-fitness:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIdentity900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesFitness980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-iid:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-games:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIid900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGames980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-location:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-gass:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesLocation900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGass980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-maps:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-gcm:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesMaps900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesGcm980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-nearby:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-identity:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesNearby900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIdentity980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-panorama:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-iid:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPanorama900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesIid980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-plus:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-instantapps:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPlus900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesInstantapps980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-safetynet:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-location:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesSafetynet900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesLocation980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-maps:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanager900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesMaps980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager-api:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-nearby:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanagerApi900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesNearby980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-tasks:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-panorama:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTasks900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPanorama980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-vision:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-places:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesVision900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPlaces980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-wallet:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-plus:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWallet900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesPlus980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.android.gms:play-services-wearable:9.0.0" />
+                <option name="description" value="Prepare com.google.android.gms:play-services-safetynet:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWearable900Library" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesSafetynet980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanager980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tagmanager-api:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTagmanagerApi980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-tasks:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesTasks980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-vision:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesVision980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-wallet:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWallet980Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.google.android.gms:play-services-wearable:9.8.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
+                <option name="name" value="prepareComGoogleAndroidGmsPlayServicesWearable980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="description" value="Prepare com.google.firebase:firebase-ads:9.0.0" />
@@ -2320,79 +2387,79 @@
                 <option name="name" value="prepareComGoogleFirebaseFirebaseAds900Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-analytics:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-analytics:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalytics900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalytics980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-analytics-impl:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-analytics-impl:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalyticsImpl900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAnalyticsImpl980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-auth:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-auth:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAuth900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAuth980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-auth-common:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-auth-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthCommon900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthCommon980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-auth-module:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-auth-module:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthModule900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseAuthModule980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-common:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseCommon900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseCommon980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-config:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-config:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseConfig900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseConfig980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-core:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-core:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseCore900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseCore980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-crash:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-crash:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseCrash900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseCrash980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-database:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-database:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabase900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabase980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-database-connection:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-database-connection:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabaseConnection900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseDatabaseConnection980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-iid:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-iid:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseIid900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseIid980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-messaging:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-messaging:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseMessaging900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseMessaging980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-storage:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-storage:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseStorage900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseStorage980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Prepare com.google.firebase:firebase-storage-common:9.0.0" />
+                <option name="description" value="Prepare com.google.firebase:firebase-storage-common:9.8.0" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
-                <option name="name" value="prepareComGoogleFirebaseFirebaseStorageCommon900Library" />
+                <option name="name" value="prepareComGoogleFirebaseFirebaseStorageCommon980Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/taiwanpetadoptionApp" />
@@ -2534,7 +2601,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$" value="5871697584732" />
+        <entry key="$PROJECT_DIR$" value="5871710403409" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -2861,70 +2928,83 @@
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/audience-network-sdk/4.17.0/7fb0a010c436375e25e28b3324f5fe50acf22770/audience-network-sdk-4.17.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.facebook.android/facebook-android-sdk/4.17.0/c30bff92bcfa682d5a167d2356aafbe3c1559060/facebook-android-sdk-4.17.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-analytics/9.0.0/play-services-analytics-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-maps/9.0.0/play-services-maps-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-gcm/9.0.0/play-services-gcm-9.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/25.0.0/support-v4-25.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-analytics/9.8.0/play-services-analytics-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-maps/9.8.0/play-services-maps-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-gcm/9.8.0/play-services-gcm-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.adlocus/library/3.5.2/76a7965bcc0664a29921a4497e59fee902062198/library-3.5.2.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services/9.0.0/play-services-9.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services/9.8.0/play-services-9.8.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-ads/9.0.0/firebase-ads-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-messaging/9.0.0/firebase-messaging-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-core/9.0.0/firebase-core-9.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-ads/9.8.0/play-services-ads-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-auth/9.8.0/play-services-auth-9.8.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-android/2.3.1/be29b24233711c419ce935aa0a1b12ebc49d1c9a/firebase-client-android-2.3.1.jar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-core/9.8.0/firebase-core-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.2.0/recyclerview-v7-23.2.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.android.exoplayer/exoplayer/r1.5.8/23154588f89d51b13309aca214f8c41dabb15f9a/exoplayer-r1.5.8.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/cardview-v7/25.0.0/cardview-v7-25.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/customtabs/25.0.0/customtabs-25.0.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.4.0/cc174c559b5177982887bf6e1b76003aebad9516/bolts-android-1.4.0.jar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-analytics-impl/9.0.0/play-services-analytics-impl-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-base/9.0.0/play-services-base-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-basement/9.0.0/play-services-basement-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-iid/9.0.0/play-services-iid-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-ads-lite/9.0.0/play-services-ads-lite-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-appinvite/9.0.0/play-services-appinvite-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-auth/9.0.0/play-services-auth-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-auth-base/9.0.0/play-services-auth-base-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-cast/9.0.0/play-services-cast-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-config/9.0.0/firebase-config-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-crash/9.0.0/firebase-crash-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-drive/9.0.0/play-services-drive-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-auth/9.0.0/firebase-auth-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-auth-common/9.0.0/firebase-auth-common-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-auth-module/9.0.0/firebase-auth-module-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-database-connection/9.0.0/firebase-database-connection-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-database/9.0.0/firebase-database-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-iid/9.0.0/firebase-iid-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-storage/9.0.0/firebase-storage-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-storage-common/9.0.0/firebase-storage-common-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-common/9.0.0/firebase-common-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-fitness/9.0.0/play-services-fitness-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-games/9.0.0/play-services-games-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-appindexing/9.0.0/play-services-appindexing-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-identity/9.0.0/play-services-identity-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-location/9.0.0/play-services-location-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-analytics/9.0.0/firebase-analytics-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-analytics-impl/9.0.0/firebase-analytics-impl-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-nearby/9.0.0/play-services-nearby-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-panorama/9.0.0/play-services-panorama-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-plus/9.0.0/play-services-plus-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-safetynet/9.0.0/play-services-safetynet-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-tagmanager-api/9.0.0/play-services-tagmanager-api-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-tagmanager/9.0.0/play-services-tagmanager-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-tasks/9.0.0/play-services-tasks-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-vision/9.0.0/play-services-vision-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-wallet/9.0.0/play-services-wallet-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-wearable/9.0.0/play-services-wearable-9.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-analytics-impl/9.8.0/play-services-analytics-impl-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-base/9.8.0/play-services-base-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-basement/9.8.0/play-services-basement-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-iid/9.8.0/play-services-iid-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-ads-lite/9.8.0/play-services-ads-lite-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-appinvite/9.8.0/play-services-appinvite-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-auth-base/9.8.0/play-services-auth-base-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-cast-framework/9.8.0/play-services-cast-framework-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-cast/9.8.0/play-services-cast-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-clearcut/9.8.0/play-services-clearcut-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-config/9.8.0/firebase-config-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-awareness/9.8.0/play-services-awareness-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-crash/9.8.0/firebase-crash-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-drive/9.8.0/play-services-drive-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-auth/9.8.0/firebase-auth-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-auth-common/9.8.0/firebase-auth-common-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-auth-module/9.8.0/firebase-auth-module-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-database-connection/9.8.0/firebase-database-connection-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-database/9.8.0/firebase-database-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-iid/9.8.0/firebase-iid-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-storage/9.8.0/firebase-storage-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-storage-common/9.8.0/firebase-storage-common-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-common/9.8.0/firebase-common-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-fitness/9.8.0/play-services-fitness-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-games/9.8.0/play-services-games-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-gass/9.8.0/play-services-gass-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-appindexing/9.8.0/play-services-appindexing-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-identity/9.8.0/play-services-identity-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-instantapps/9.8.0/play-services-instantapps-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-location/9.8.0/play-services-location-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-analytics/9.8.0/firebase-analytics-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-analytics-impl/9.8.0/firebase-analytics-impl-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-nearby/9.8.0/play-services-nearby-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-panorama/9.8.0/play-services-panorama-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-places/9.8.0/play-services-places-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-plus/9.8.0/play-services-plus-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-safetynet/9.8.0/play-services-safetynet-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-tagmanager-api/9.8.0/play-services-tagmanager-api-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-tagmanager/9.8.0/play-services-tagmanager-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-tasks/9.8.0/play-services-tasks-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-vision/9.8.0/play-services-vision-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-wallet/9.8.0/play-services-wallet-9.8.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-wearable/9.8.0/play-services-wearable-9.8.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-compat/25.0.0/support-compat-25.0.0.aar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar" />
                             <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/mediarouter-v7/23.0.0/mediarouter-v7-23.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/appcompat-v7/25.0.0/appcompat-v7-25.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/mediarouter-v7/24.0.0/mediarouter-v7-24.0.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.2.2/3c8f6018eaa72d43b261181e801e6f8676c16ef6/jackson-databind-2.2.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/tubesock/0.0.11/d37cb67277928cf59344b4196af8d9cee1f1a27c/tubesock-0.0.11.jar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/palette-v7/24.0.0/palette-v7-24.0.0.aar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.2.2/285cb9c666f0f0f3dd8a1be04e1f457eb7b15113/jackson-annotations-2.2.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.2.2/d20be6a5ddd6f8cfd36ebf6dea329873a1c41f1b/jackson-core-2.2.2.jar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-vector-drawable/25.0.0/support-vector-drawable-25.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/animated-vector-drawable/25.0.0/animated-vector-drawable-25.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-v4/25.0.0/support-v4-25.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-media-compat/25.0.0/support-media-compat-25.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-core-utils/25.0.0/support-core-utils-25.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-core-ui/25.0.0/support-core-ui-25.0.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-fragment/25.0.0/support-fragment-25.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/android/gms/play-services-ads/9.0.0/play-services-ads-9.0.0.aar" />
-                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/recyclerview-v7/23.2.0/recyclerview-v7-23.2.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/google/m2repository/com/google/firebase/firebase-messaging/9.8.0/firebase-messaging-9.8.0.aar" />
                             <option value="$USER_HOME$/AppData/Local/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar" />
                             <option value="$MODULE_DIR$/libs/universal-image-loader-1.9.4.jar" />
                             <option value="$MODULE_DIR$/libs/glide-3.6.1.jar" />
@@ -3059,7 +3139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/taiwanpetadoptionApp/build.gradle" />
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/google-services.json" />
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/Appkey/MyAdKey.java" />
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/res/layout/activity_two.xml" />
@@ -3068,6 +3147,7 @@
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/RequestResponseListener.java" />
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/VersionChecker.java" />
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/MainActivity.java" />
+        <option value="$PROJECT_DIR$/taiwanpetadoptionApp/build.gradle" />
         <option value="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.java" />
       </list>
     </option>
@@ -3166,108 +3246,6 @@
               <option name="myItemId" value="TaipeiZoo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taiwanpetadoptionApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="util" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaipeiZoo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taiwanpetadoptionApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="MyAPI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaipeiZoo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taiwanpetadoptionApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaiwanpetadoptionApp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaipeiZoo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taiwanpetadoptionApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="com" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaipeiZoo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="taiwanpetadoptionApp" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Appkey" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="TaipeiZoo" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
@@ -3278,6 +3256,8 @@
     <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="device.picker.selection" value="FA48NWW00343" />
+    <property name="android.project.structure.last.selected" value="Cloud" />
+    <property name="android.project.structure.proportion" value="0.15" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -3579,7 +3559,7 @@
       <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33073497" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -3608,22 +3588,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/admobadapter/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="44" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/google-services.json">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.7756333">
@@ -3696,17 +3660,9 @@
         <state vertical-scroll-proportion="-55.051723">
           <caret line="178" column="69" selection-start-line="178" selection-start-column="69" selection-end-line="178" selection-end-column="69" />
           <folding>
-            <element signature="e#6148#6921#0" expanded="true" />
-            <element signature="e#6920#6921#0" expanded="true" />
+            <element signature="e#6148#6921#0" expanded="false" />
+            <element signature="e#6920#6921#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/URApiType.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3714,7 +3670,15 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1395#1396#0" expanded="false" />
+            <element signature="e#1441#1442#0" expanded="false" />
+            <element signature="e#1993#1994#0" expanded="false" />
+            <element signature="e#2065#2066#0" expanded="false" />
+            <element signature="e#2404#2405#0" expanded="false" />
+            <element signature="e#2442#2443#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -3739,13 +3703,21 @@
         <state vertical-scroll-proportion="-35.0">
           <caret line="98" column="29" selection-start-line="98" selection-start-column="29" selection-end-line="98" selection-end-column="29" />
           <folding>
-            <element signature="e#16116#16591#0" expanded="true" />
-            <element signature="e#16590#16591#0" expanded="true" />
+            <element signature="e#16116#16591#0" expanded="false" />
+            <element signature="e#16590#16591#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/URApiInfo.java">
+    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/URApiType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/RequestHandler.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -3761,10 +3733,50 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/RequestHandler.java">
+    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/MyAPI/URApiInfo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.8.0/jars/classes.jar!/com/google/firebase/database/ChildEventListener.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.25802615">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.firebase/firebase-client-jvm/2.3.1/4d53b7d6983247af02b8fe7e4228fff555a5e828/firebase-client-jvm-2.3.1.jar!/com/firebase/client/Query.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-80.07143">
+          <caret line="109" column="30" selection-start-line="109" selection-start-column="30" selection-end-line="109" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admobadapter/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="13" column="19" selection-start-line="13" selection-start-column="19" selection-end-line="13" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -3781,16 +3793,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0827206">
-          <caret line="40" column="30" selection-start-line="40" selection-start-column="30" selection-end-line="40" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.6746324">
+          <caret line="215" column="44" selection-start-line="215" selection-start-column="44" selection-end-line="215" selection-end-column="44" />
           <folding>
-            <element signature="e#2515#2549#0" expanded="true" />
-            <element signature="e#2568#2598#0" expanded="true" />
-            <element signature="e#2651#2678#0" expanded="true" />
-            <element signature="e#3005#3031#0" expanded="true" />
-            <element signature="e#3360#3390#0" expanded="true" />
-            <element signature="e#3392#3420#0" expanded="true" />
-            <element signature="e#4509#4543#0" expanded="true" />
+            <element signature="e#2908#2942#0" expanded="true" />
+            <element signature="e#2961#2991#0" expanded="true" />
+            <element signature="e#3044#3071#0" expanded="true" />
+            <element signature="e#3398#3424#0" expanded="true" />
+            <element signature="e#3753#3783#0" expanded="true" />
+            <element signature="e#3785#3813#0" expanded="true" />
+            <element signature="e#4902#4936#0" expanded="true" />
+            <element signature="e#6975#7233#0" expanded="true" />
+            <element signature="e#7232#7233#0" expanded="true" />
           </folding>
         </state>
       </provider>

@@ -24,16 +24,25 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import com.MyAPI.VersionChecker;
+import com.firebase.client.Firebase;
+import com.firebase.client.FirebaseError;
+import com.firebase.client.ValueEventListener;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
+import com.google.firebase.database.ChildEventListener;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
 import com.util.IabHelper;
 import com.util.IabResult;
 import com.util.Inventory;
 
 import java.io.IOException;
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 import java.util.Locale;
+import java.util.Map;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -54,7 +63,7 @@ public class HeadpageActivity extends Activity implements
 	protected Location mLastLocation;
 	private GoogleApiClient mGoogleApiClient;
 	private static final String TAG = "HeadpageActivity";
-
+	private  	ArrayList<String> name;
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
@@ -162,7 +171,58 @@ public class HeadpageActivity extends Activity implements
 		GetButtonView();
 		setButtonEvent();
 		buildGoogleApiClient();
+		Firebase.setAndroidContext(this);
+		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
 
+		Firebase mFirebaseRef = new Firebase(url);
+//		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
+
+		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
+			@Override
+			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+//				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
+//				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
+//				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
+
+			}
+
+			@Override
+			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+
+			}
+
+			@Override
+			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
+
+			}
+
+			@Override
+			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+
+			}
+
+			@Override
+			public void onCancelled(FirebaseError firebaseError) {
+
+			}
+		});
+		Firebase newPostRef = mFirebaseRef.child("posts").push();
+//		String newPostKey = newPostRef.getKey();
+		Map newPost = new HashMap();
+		newPost.put("name", "hello");
+		newPost.put("age", 21);
+		Map updatedUserData = new HashMap();
+//		updatedUserData.put("3/posts/" + newPostKey, true);
+		updatedUserData.put("2/" , newPost);
+		// Do a deep-path update
+		mFirebaseRef.updateChildren(updatedUserData, new Firebase.CompletionListener() {
+			@Override
+			public void onComplete(FirebaseError firebaseError, Firebase firebase) {
+				if (firebaseError != null) {
+					Log.d(TAG, "onComplete: "+"Error updating data: " + firebaseError.getMessage());
+				}
+			}
+		});
 	}
 
 	@Override
