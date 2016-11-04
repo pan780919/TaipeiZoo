@@ -27,4 +27,4 @@
         android:topLeftRadius="@dimen/com_facebook_auth_dialog_corner_radius"
         android:topRightRadius="@dimen/com_facebook_auth_dialog_corner_radius" />
 </shape>
-<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaiwanpetadoptionApp/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.0/res/drawable/com_facebook_auth_dialog_header_background.xml -->
+<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/drawable/com_facebook_auth_dialog_header_background.xml -->

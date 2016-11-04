@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\HYXEN20141227\\Documents\\TaiwanpetadoptionApp\\taiwanpetadoptionApp\\src\\main\\aidl\\com\\android\\vending\\billing\\IInAppBillingService.aidl
+ * Original file: C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\src\\main\\aidl\\com\\android\\vending\\billing\\IInAppBillingService.aidl
  */
 package com.android.vending.billing;
 /**

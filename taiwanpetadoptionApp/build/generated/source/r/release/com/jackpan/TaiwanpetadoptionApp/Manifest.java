@@ -9,6 +9,6 @@ package com.jackpan.TaiwanpetadoptionApp;
 
 public final class Manifest {
     public static final class permission {
-        public static final String C2D_MESSAGE="com.jackpan.TaiwanpetadoptionApp.permission.C2D_MESSAGE";
+        public static final String C2D_MESSAGE="com.jackpan.TaipeiZoo.permission.C2D_MESSAGE";
     }
 }

@@ -27,7 +27,7 @@
 				    android:layout_width="match_parent"
 				    android:layout_height="match_parent"
 				    android:src="@drawable/nophoto"
-				    
+
 				    >
 
                 </ImageView>
@@ -35,7 +35,7 @@
                            android:layout_width="wrap_content"
                            android:layout_height="wrap_content"
                            android:id="@+id/b_button_share"
-                           android:text="分享寵物資訊至Facebook"
+                           android:text="分享資訊至Facebook"
                            >
 
                        </Button>
@@ -197,16 +197,54 @@
                                 <View            
                     android:layout_width="wrap_content"
                     android:layout_height="20dp" />
-
                 <TextView
                     android:id="@+id/textView15"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:text="Medium Text"
                     android:textAppearance="?android:attr/textAppearanceMedium" />
-                                <View            
+                <View
                     android:layout_width="wrap_content"
                     android:layout_height="20dp" />
+                <TextView
+                    android:id="@+id/textView17"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Medium Text"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp" />
+                <TextView
+                    android:id="@+id/textView19"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Medium Text"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp" />
+                <TextView
+                    android:id="@+id/textView21"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Medium Text"
+                    android:textAppearance="?android:attr/textAppearanceMedium" />
+                <View
+                    android:layout_width="wrap_content"
+                    android:layout_height="20dp" />
+                <ImageView
+                    android:id="@+id/pageimg2"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/nophoto"
+                    >
+                </ImageView>
+                <RelativeLayout
+                    android:id="@+id/adViewContainer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    />
 
                 <TextView
                     android:id="@+id/textView16"
@@ -217,16 +255,20 @@
                                 <View            
                     android:layout_width="wrap_content"
                     android:layout_height="20dp" />
+                <ImageView
+                    android:id="@+id/pageimg3"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/nophoto"
 
-                <TextView
-                    android:id="@+id/textView17"
+                    >
+
+                </ImageView>
+                <RelativeLayout
+                    android:id="@+id/adViewContainer2"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Medium Text"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
-                                <View            
-                    android:layout_width="wrap_content"
-                    android:layout_height="20dp" />
+                    />
 
                 <TextView
                     android:id="@+id/textView18"
@@ -238,16 +280,21 @@
                     android:layout_width="wrap_content"
                     android:layout_height="20dp" />
 
-                <TextView
-                    android:id="@+id/textView19"
+                <ImageView
+                    android:id="@+id/pageimg4"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/nophoto"
+
+                    >
+
+                </ImageView>
+
+                <RelativeLayout
+                    android:id="@+id/adViewContainer3"
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
-                    android:text="Medium Text"
-                    android:textAppearance="?android:attr/textAppearanceMedium" />
-                
-                <View            
-                    android:layout_width="wrap_content"
-                    android:layout_height="20dp" />
+                    />
 
                 <TextView
                     android:id="@+id/textView20"
@@ -268,4 +315,4 @@
         ads:adUnitId="@string/banner_ad_unit_id" >
     </com.google.android.gms.ads.AdView>
 
-</LinearLayout><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaiwanpetadoptionApp/taiwanpetadoptionApp/src/main/res/layout/activity_two.xml -->
+</LinearLayout><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_two.xml -->

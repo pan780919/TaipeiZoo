@@ -15,14 +15,16 @@
 -->
 
 <layer-list xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@android:id/background"
-          android:drawable="@drawable/abc_ic_star_black_36dp" />
-    <item android:id="@android:id/secondaryProgress"
-          android:drawable="@drawable/abc_ic_star_half_black_36dp" />
+    <item
+        android:id="@android:id/background"
+        android:drawable="@drawable/abc_ic_star_black_36dp"/>
+    <item
+        android:id="@android:id/secondaryProgress"
+        android:drawable="@drawable/abc_ic_star_half_black_36dp"/>
     <item android:id="@android:id/progress">
         <bitmap
-                android:src="@drawable/abc_ic_star_black_36dp"
-                android:tileModeX="repeat"/>
+            android:src="@drawable/abc_ic_star_black_36dp"
+            android:tileModeX="repeat"/>
     </item>
 </layer-list>
-<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaiwanpetadoptionApp/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/drawable/abc_ratingbar_indicator_material.xml -->
+<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/drawable/abc_ratingbar_indicator_material.xml -->

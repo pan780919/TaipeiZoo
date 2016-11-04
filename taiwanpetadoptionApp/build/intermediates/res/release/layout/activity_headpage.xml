@@ -10,7 +10,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_centerHorizontal="true"
-        android:background="@drawable/petphotohead"
+        android:background="@drawable/zoo"
         android:text="" />
 
     <TextView
@@ -23,4 +23,4 @@
         android:text="請點擊進入"
         android:textSize="30dp" />
 
-</RelativeLayout><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaiwanpetadoptionApp/taiwanpetadoptionApp/src/main/res/layout/activity_headpage.xml -->
+</RelativeLayout><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_headpage.xml -->
