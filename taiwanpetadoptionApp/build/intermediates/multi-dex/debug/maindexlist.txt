@@ -243,6 +243,7 @@ com/google/android/gms/wearable/DataApi$DataListener.class
 android/support/v4/media/VolumeProviderCompat$1.class
 com/google/android/gms/games/internal/experience/ExperienceEvent.class
 com/google/android/gms/internal/zzjw.class
+com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$8$1.class
 com/google/firebase/database/IgnoreExtraProperties.class
 com/google/android/gms/location/places/internal/PlaceLocalization.class
 android/support/v4/view/OnApplyWindowInsetsListener.class
@@ -503,7 +504,6 @@ com/fasterxml/jackson/core/ObjectCodec.class
 com/bumptech/glide/load/DecodeFormat.class
 com/google/android/gms/contextmanager/fence/internal/FenceUpdateRequestImpl.class
 vpadn/w.class
-com/firebase/client/Firebase$CompletionListener.class
 com/google/android/gms/internal/zzmp.class
 com/google/android/gms/internal/zzid.class
 com/google/android/gms/common/util/DynamiteApi.class
@@ -1316,7 +1316,6 @@ com/google/android/gms/internal/zzgu.class
 com/fasterxml/jackson/databind/JsonDeserializer$None.class
 android/support/annotation/RestrictTo$Scope.class
 com/google/android/gms/internal/zzsc.class
-com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$10.class
 com/fasterxml/jackson/databind/ser/SerializerFactory.class
 android/support/v4/media/MediaBrowserCompat$MediaBrowserServiceCallbackImpl.class
 com/adlocus/util/MultiProcessPreferences.class
@@ -1645,7 +1644,6 @@ com/google/android/gms/ads/search/DynamicHeightSearchAdRequest$Builder.class
 com/google/android/gms/ads/internal/request/StringParcel.class
 android/support/v4/media/session/PlaybackStateCompat.class
 com/fasterxml/jackson/databind/deser/std/JacksonDeserializers.class
-com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$9$1.class
 android/support/annotation/RawRes.class
 android/support/v4/widget/SimpleCursorAdapter.class
 android/support/annotation/UiThread.class

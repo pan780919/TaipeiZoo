@@ -181,14 +181,15 @@ public class HeadpageActivity extends Activity implements
 			@Override
 			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
 //				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
-//				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
-//				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
+				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
+				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
 
 			}
 
 			@Override
 			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-
+				Log.d(TAG, "onChildChanged: "+ (String) dataSnapshot.child("name").getValue());
+				Log.d(TAG, "onChildChanged: "+ (Long) dataSnapshot.child("age").getValue());
 			}
 
 			@Override
@@ -206,23 +207,23 @@ public class HeadpageActivity extends Activity implements
 
 			}
 		});
-		Firebase newPostRef = mFirebaseRef.child("posts").push();
-//		String newPostKey = newPostRef.getKey();
-		Map newPost = new HashMap();
-		newPost.put("name", "hello");
-		newPost.put("age", 21);
-		Map updatedUserData = new HashMap();
-//		updatedUserData.put("3/posts/" + newPostKey, true);
-		updatedUserData.put("2/" , newPost);
-		// Do a deep-path update
-		mFirebaseRef.updateChildren(updatedUserData, new Firebase.CompletionListener() {
-			@Override
-			public void onComplete(FirebaseError firebaseError, Firebase firebase) {
-				if (firebaseError != null) {
-					Log.d(TAG, "onComplete: "+"Error updating data: " + firebaseError.getMessage());
-				}
-			}
-		});
+//		Firebase newPostRef = mFirebaseRef.child("posts").push();
+////		String newPostKey = newPostRef.getKey();
+//		Map newPost = new HashMap();
+//		newPost.put("name", "hello");
+//		newPost.put("age", 21);
+//		Map updatedUserData = new HashMap();
+////		updatedUserData.put("3/posts/" + newPostKey, true);
+//		updatedUserData.put("2/" , newPost);
+//		// Do a deep-path update
+//		mFirebaseRef.updateChildren(updatedUserData, new Firebase.CompletionListener() {
+//			@Override
+//			public void onComplete(FirebaseError firebaseError, Firebase firebase) {
+//				if (firebaseError != null) {
+//					Log.d(TAG, "onComplete: "+"Error updating data: " + firebaseError.getMessage());
+//				}
+//			}
+//		});
 	}
 
 	@Override

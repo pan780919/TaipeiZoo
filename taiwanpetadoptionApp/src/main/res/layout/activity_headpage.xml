@@ -10,7 +10,7 @@
         android:layout_width="fill_parent"
         android:layout_height="fill_parent"
         android:layout_centerHorizontal="true"
-        android:background="@drawable/petphotohead"
+        android:background="@drawable/zoo"
         android:text="" />
 
     <TextView
