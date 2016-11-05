@@ -1,4 +1,4 @@
--keep class null {
+-keep class android.support.multidex.MultiDexApplication {
     <init>();
     void attachBaseContext(android.content.Context);
 }

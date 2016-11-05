@@ -31,4 +31,4 @@
                  android:drawableStart="?android:attr/listChoiceIndicatorSingle"
                  android:drawablePadding="20dp"
                  android:ellipsize="marquee" />
-<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml -->
+<!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/layout/select_dialog_singlechoice_material.xml -->

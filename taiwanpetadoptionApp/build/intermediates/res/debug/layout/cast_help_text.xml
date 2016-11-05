@@ -21,4 +21,4 @@
     android:textColor="@color/cast_libraries_material_featurehighlight_text_body_color" />
 
 </com.google.android.gms.cast.framework.internal.featurehighlight.HelpTextView>
-<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_help_text.xml -->
+<!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_help_text.xml -->
