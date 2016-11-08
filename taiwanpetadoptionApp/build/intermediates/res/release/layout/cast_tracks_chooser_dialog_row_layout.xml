@@ -26,4 +26,4 @@
         android:layout_toLeftOf="@+id/radio"
         android:layout_toStartOf="@+id/radio" />
 </RelativeLayout>
-<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml -->
+<!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/layout/cast_tracks_chooser_dialog_row_layout.xml -->

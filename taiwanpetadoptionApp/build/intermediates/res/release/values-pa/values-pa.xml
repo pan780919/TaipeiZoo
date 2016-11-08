@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="5835639618285370804" name="accept">"ਸਵੀਕਾਰ ਕਰੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="4778414446709286370" name="cast_ad_label">"ਇਸ਼ਤਿਹਾਰ"</string>
     <string msgid="366047012176970604" name="cast_casting_to_device">"%1$s \'ਤੇ ਕਾਸਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
@@ -20,12 +20,12 @@
     <string msgid="7868672855975238403" name="cast_forward_30">"ਤੀਹ ਸਕਿੰਟ ਅੱਗੇ ਕਰੋ"</string>
     <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
     <string msgid="5637297909372905371" name="cast_mute">"ਮਿਊਟ ਕਰੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="5319032370587661362" name="cast_notification_connected_message">"<ns1:g id="NAME">%1$s</ns1:g> ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਗਿਆ"</string>
     <string msgid="2758865089947797888" name="cast_notification_connecting_message">"<ns1:g id="NAME">%1$s</ns1:g> ਨਾਲ ਕਨੈਕਟ ਕੀਤਾ ਜਾ ਰਿਹਾ ਹੈ"</string>
     <string msgid="5232008641593292969" name="cast_notification_disconnect">"ਡਿਸਕਨੈਕਟ ਕਰੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="5308503786390460607" name="cast_pause">"ਰੋਕੋ"</string>
     <string msgid="5906987965619702702" name="cast_play">"ਚਲਾਓ"</string>
@@ -46,7 +46,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ਠੀਕ"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"ਉਪਸਿਰਲੇਖ"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"ਅਣਮਿਊਟ ਕਰੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-pa/values-pa.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-pa/values-pa.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">ਆਪਣੇ ਸਮਾਰਟਫ਼ੋਨ ਜਾਂ ਕੰਪਿਊਟਰ \'ਤੇ &lt;b>facebook.com/device&lt;/b> ਵਿੱਚ ਜਾਓ ਅਤੇ ਇਸ ਕੋਡ ਨੂੰ ਦਾਖ਼ਲ ਕਰੋ:</string>
     <string name="com_facebook_image_download_unknown_error">ਕਿਸੇ ਤਸਵੀਰ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਵੇਲੇ ਅਗਿਆਤ ਤਰੁੱਟੀ ਹੋ ਗਈ।</string>
@@ -65,7 +65,7 @@
     <string name="com_facebook_send_button_text">ਭੇਜੋ</string>
     <string name="com_facebook_share_button_text">ਸਾਂਝਾ ਕਰੋ</string>
     <string name="com_facebook_tooltip_default">ਨਵਾਂ! ਤੁ\ਸੀਂ ਨਿਯੰਤਰਣ ਵਿੱਚ ਹੋ - ਉਹ ਜਾਣਕਾਰੀ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਐਪਸ ਦੇ ਨਾਲ ਸਾਂਝੀ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ।</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"ਯੋਗ ਬਣਾਓ"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ਕੰਮ ਨਹੀਂ ਕਰੇਗਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਯੋਗ ਨਹੀਂ ਬਣਾਉਂਦੇ ਹੋ।"</string>
@@ -74,10 +74,10 @@
     <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play ਸੇਵਾਵਾਂ ਤੋਂ ਬਿਨਾਂ ਨਹੀਂ ਚੱਲੇਗੀ, ਜੋ ਤੁਹਾਡੀ ਡੀਵਾਈਸ ਤੋਂ ਗੁੰਮ ਹਨ।"</string>
     <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Google Play ਸੇਵਾਵਾਂ ਪ੍ਰਾਪਤ ਕਰੋ"</string>
     <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Google Play ਸੇਵਾਵਾਂ ਅਸ਼ੁੱਧੀ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ਨੂੰ Google Play ਸੇਵਾਵਾਂ ਨਾਲ ਸਮੱਸਿਆ ਆ ਰਹੀ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਦੁਬਾਰਾ ਕੋਸ਼ਿਸ਼ ਕਰੋ।"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> Google Play ਸੇਵਾਵਾਂ ਤੋਂ ਬਿਨਾਂ ਨਹੀਂ ਚੱਲ ਸਕੇਗੀ, ਜੋ ਤੁਹਾਡੀ ਡੀਵਾਈਸ \'ਤੇ ਸਮਰਥਿਤ ਨਹੀਂ ਹਨ।"</string>
     <string msgid="8172070149091615356" name="common_google_play_services_update_button">"ਅੱਪਡੇਟ ਕਰੋ"</string>
@@ -88,7 +88,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ਫ਼ੋਨ \'ਤੇ ਖੋਲ੍ਹੋ"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"ਸਾਈਨ ਇਨ ਕਰੇ"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="6155048007205742679" name="create_calendar_message">"ਕੀ ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਇੱਕ ਕੈਲੰਡਰ ਵਰਤਾਰਾ ਬਣਾਉਣ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?"</string>
     <string msgid="7967007864778154790" name="create_calendar_title">"ਕੈਲੰਡਰ ਵਰਤਾਰਾ ਬਣਾਓ"</string>
@@ -97,14 +97,14 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"ਕੋਈ ਡੀਬੱਗ ਮੋਡ ਚੁਣੋ"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"ਸਮੱਸਿਆ ਹੱਲ ਕਰਨਾ"</string>
     <string msgid="6099173376375995052" name="decline">"ਅਸਵੀਕਾਰ ਕਰੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-pa/values-pa.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-pa/values-pa.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">ਭੇਜੋ</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"ਖੋਜ ਹਟਾਓ"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"ਖੋਜੋ"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-pa/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-pa/values.xml -->
     <eat-comment/>
     <string msgid="8020323581538738027" name="store_picture_message">"ਕੀ ਇਸ਼ਤਿਹਾਰ ਨੂੰ ਤਸਵੀਰ ਗੈਲਰੀ ਵਿੱਚ ਚਿੱਤਰ ਸਟੋਰ ਕਰਨ ਦੀ ਆਗਿਆ ਦੇਣੀ ਹੈ?"</string>
     <string msgid="4180630057627064606" name="store_picture_title">"ਚਿੱਤਰ ਰੱਖਿਅਤ ਕਰੋ"</string>

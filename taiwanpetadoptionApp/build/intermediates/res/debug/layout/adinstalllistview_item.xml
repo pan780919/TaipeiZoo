@@ -40,4 +40,4 @@
                 android:id="@+id/btnAction"/>
     </LinearLayout>
 
-</com.google.android.gms.ads.formats.NativeAppInstallAdView><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/admobadapter/src/main/res/layout/adinstalllistview_item.xml --><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/TaipeiZoo/admobadapter/unspecified/res/layout/adinstalllistview_item.xml -->
+</com.google.android.gms.ads.formats.NativeAppInstallAdView><!-- From: file:/Users/jackpan/TaipeiZoo/admobadapter/src/main/res/layout/adinstalllistview_item.xml --><!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/TaipeiZoo/admobadapter/unspecified/res/layout/adinstalllistview_item.xml -->

@@ -1,17 +1,17 @@
--injars 'C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\multi-dex\release\allclasses.jar'
--outjars 'C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\multi-dex\release\componentClasses.jar'
+-injars /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/allclasses.jar
+-outjars /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/componentClasses.jar
 
--libraryjars 'C:\Users\HYXEN20141227\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
+-libraryjars /Users/jackpan/Library/Android/sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
 
 -forceprocessing
 -dontoptimize
 -dontobfuscate
 -dontpreverify
 -dontwarn
--printconfiguration 'C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\multi-dex\release\components.flags'
+-printconfiguration /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/components.flags
 
 
--keep class null {
+-keep class android.support.multidex.MultiDexApplication {
     <init>();
     void attachBaseContext(android.content.Context);
 }

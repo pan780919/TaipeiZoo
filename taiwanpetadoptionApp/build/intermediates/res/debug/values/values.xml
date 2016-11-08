@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="http://schemas.android.com/tools">
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <array name="cast_expanded_controller_default_control_buttons"><item>@id/cast_button_type_closed_caption</item>
 <item>@id/cast_button_type_skip_previous</item>
@@ -11,18 +11,18 @@
 <item>@id/cast_button_type_empty</item>
 <item>@id/cast_button_type_play_pause_toggle</item>
 </array>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="MediaRouteControllerWindowBackground"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="castExpandedControllerToolbarStyle"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="drawerArrowStyle"/>
     <attr format="dimension" name="height"/>
     <attr format="boolean" name="isLightTheme"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="reference" name="mediaRouteAudioTrackDrawable"/>
     <attr format="reference" name="mediaRouteButtonStyle"/>
@@ -44,7 +44,7 @@
     <attr format="reference" name="mediaRouteSpeakerGroupIconDrawable"/>
     <attr format="reference" name="mediaRouteSpeakerIconDrawable"/>
     <attr format="reference" name="mediaRouteTvIconDrawable"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <attr format="string" name="title"/>
     <bool name="abc_action_bar_embed_tabs">true</bool>
@@ -52,11 +52,11 @@
     <bool name="abc_config_actionMenuItemAllCaps">true</bool>
     <bool name="abc_config_closeDialogWhenTouchOutside">true</bool>
     <bool name="abc_config_showMenuShortcutsWhenKeyboardPresent">false</bool>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/analytics.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/analytics.xml -->
     <eat-comment/>
     <bool name="ga_autoActivityTracking">true</bool>
     <bool name="ga_reportUncaughtExceptions">true</bool>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="abc_input_method_navigation_guard">@android:color/black</color>
     <color name="abc_search_url_text_normal">#7fa87f</color>
@@ -76,13 +76,13 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="cardview_dark_background">#FF424242</color>
     <color name="cardview_light_background">#FFFFFFFF</color>
     <color name="cardview_shadow_end_color">#03000000</color>
     <color name="cardview_shadow_start_color">#37000000</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <color name="cast_expanded_controller_ad_container_white_stripe_color">#1AFFFFFF</color>
     <color name="cast_expanded_controller_ad_label_background_color">#2F000000</color>
@@ -95,13 +95,13 @@
     <color name="cast_libraries_material_featurehighlight_outer_highlight_default_color">#2196F3</color>
     <color name="cast_libraries_material_featurehighlight_text_body_color">#FFFFFFFF</color>
     <color name="cast_libraries_material_featurehighlight_text_header_color">#FFFFFFFF</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
     <eat-comment/>
     <color name="color_bigview_setting_text_black">#262626</color>
     <color name="color_bigview_setting_text_click">#bdbdbd</color>
     <color name="color_bigview_setting_text_grey">#7e7e7e</color>
     <color name="color_bigview_setting_text_red">#d0111b</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <color name="com_facebook_blue">#3B5998</color>
     <color name="com_facebook_button_background_color">#415dae</color>
@@ -122,7 +122,7 @@
     <color name="com_facebook_messenger_blue">#0084ff</color>
     <color name="com_facebook_share_button_text_color">#FFFFFF</color>
     <color name="com_smart_login_code">#3C6499</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
     <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
@@ -132,7 +132,7 @@
     <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
     <color name="common_google_signin_btn_text_light_focused">#90000000</color>
     <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
@@ -157,7 +157,7 @@
     <color name="notification_action_color_filter">#ffffffff</color>
     <color name="notification_icon_bg_color">#ff9e9e9e</color>
     <color name="notification_material_background_media_default_color">#ff424242</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <color name="place_autocomplete_prediction_primary_text">#212121</color>
     <color name="place_autocomplete_prediction_primary_text_highlight">#757575</color>
@@ -165,7 +165,7 @@
     <color name="place_autocomplete_search_hint">#BDBDBD</color>
     <color name="place_autocomplete_search_text">#212121</color>
     <color name="place_autocomplete_separator">#1F000000</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <color name="primary_dark_material_dark">@android:color/black</color>
     <color name="primary_dark_material_light">@color/material_grey_600</color>
@@ -185,7 +185,7 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <color name="wallet_bright_foreground_disabled_holo_light">#ffb2b2b2</color>
     <color name="wallet_bright_foreground_holo_dark">#fff3f3f3</color>
@@ -258,7 +258,7 @@
     <declare-styleable name="com_facebook_like_view"><attr format="color" name="com_facebook_foreground_color"/><attr format="string" name="com_facebook_object_id"/><attr name="com_facebook_object_type"><enum name="unknown" value="0"/><enum name="open_graph" value="1"/><enum name="page" value="2"/></attr><attr name="com_facebook_style"><enum name="standard" value="0"/><enum name="button" value="1"/><enum name="box_count" value="2"/></attr><attr name="com_facebook_auxiliary_view_position"><enum name="bottom" value="0"/><enum name="inline" value="1"/><enum name="top" value="2"/></attr><attr name="com_facebook_horizontal_alignment"><enum name="center" value="0"/><enum name="left" value="1"/><enum name="right" value="2"/></attr></declare-styleable>
     <declare-styleable name="com_facebook_login_view"><attr format="boolean" name="com_facebook_confirm_logout"/><attr format="string" name="com_facebook_login_text"/><attr format="string" name="com_facebook_logout_text"/><attr name="com_facebook_tooltip_mode"><enum name="automatic" value="0"/><enum name="display_always" value="1"/><enum name="never_display" value="2"/></attr></declare-styleable>
     <declare-styleable name="com_facebook_profile_picture_view"><attr name="com_facebook_preset_size"><enum name="small" value="-2"/><enum name="normal" value="-3"/><enum name="large" value="-4"/></attr><attr format="boolean" name="com_facebook_is_cropped"/></declare-styleable>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="abc_action_bar_content_inset_material">16dp</dimen>
     <dimen name="abc_action_bar_content_inset_with_nav">72dp</dimen>
@@ -332,16 +332,16 @@
     <dimen name="abc_text_size_subtitle_material_toolbar">16dp</dimen>
     <dimen name="abc_text_size_title_material">20sp</dimen>
     <dimen name="abc_text_size_title_material_toolbar">20dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/dimens.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/dimens.xml -->
     <eat-comment/>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="cardview_compat_inset_shadow">1dp</dimen>
     <dimen name="cardview_default_elevation">2dp</dimen>
     <dimen name="cardview_default_radius">2dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="cast_expanded_controller_ad_in_progress_label_layout_height">240dp</dimen>
     <dimen name="cast_expanded_controller_ad_in_progress_label_layout_width">-1px</dimen>
@@ -372,7 +372,7 @@
     <dimen name="cast_notification_image_size">64dp</dimen>
     <dimen name="cast_tracks_chooser_dialog_no_message_text_size">18sp</dimen>
     <dimen name="cast_tracks_chooser_dialog_row_text_size">18sp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="com_facebook_auth_dialog_corner_radius">2dp</dimen>
     <dimen name="com_facebook_auth_dialog_corner_radius_oversized">4dp</dimen>
@@ -396,7 +396,7 @@
     <dimen name="com_facebook_share_button_padding_top">12dp</dimen>
     <dimen name="com_facebook_share_button_text_size">16.0sp</dimen>
     <dimen name="com_facebook_tooltip_horizontal_padding">10dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <item format="float" name="disabled_alpha_material_dark" type="dimen">0.30</item>
     <item format="float" name="disabled_alpha_material_light" type="dimen">0.26</item>
@@ -407,12 +407,12 @@
     <item format="float" name="hint_alpha_material_light" type="dimen">0.38</item>
     <item format="float" name="hint_pressed_alpha_material_dark" type="dimen">0.70</item>
     <item format="float" name="hint_pressed_alpha_material_light" type="dimen">0.54</item>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="item_touch_helper_max_drag_scroll_per_frame">20dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_max_velocity">800dp</dimen>
     <dimen name="item_touch_helper_swipe_escape_velocity">120dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="mr_controller_volume_group_list_item_height">68dp</dimen>
     <dimen name="mr_controller_volume_group_list_item_icon_size">24dp</dimen>
@@ -420,7 +420,7 @@
     <dimen name="mr_controller_volume_group_list_padding_top">16dp</dimen>
     <dimen name="mr_dialog_fixed_width_major">320dp</dimen>
     <dimen name="mr_dialog_fixed_width_minor">320dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="notification_action_icon_size">32dp</dimen>
     <dimen name="notification_action_text_size">13sp</dimen>
@@ -437,7 +437,7 @@
     <dimen name="notification_subtext_size">13sp</dimen>
     <dimen name="notification_top_pad">10dp</dimen>
     <dimen name="notification_top_pad_large_text">5dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <dimen name="place_autocomplete_button_padding">16dp</dimen>
     <dimen name="place_autocomplete_powered_by_google_height">40dp</dimen>
@@ -449,11 +449,11 @@
     <dimen name="place_autocomplete_progress_horizontal_margin">16dp</dimen>
     <dimen name="place_autocomplete_progress_size">24dp</dimen>
     <dimen name="place_autocomplete_separator_start">72dp</dimen>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
     <eat-comment/>
     <drawable name="color_bigview_btn_bg_click">#80000000</drawable>
     <drawable name="color_bigview_btn_bg_normal">#00000000</drawable>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <drawable name="notification_template_icon_bg">#3333B5E5</drawable>
     <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
@@ -461,7 +461,7 @@
     <item name="action_bar_spinner" type="id"/>
     <item name="action_menu_divider" type="id"/>
     <item name="action_menu_presenter" type="id"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <item name="cast_button_type_closed_caption" type="id"/>
     <item name="cast_button_type_custom" type="id"/>
@@ -475,19 +475,19 @@
     <item name="cast_featurehighlight_help_text_body_view" type="id"/>
     <item name="cast_featurehighlight_help_text_header_view" type="id"/>
     <item name="cast_featurehighlight_view" type="id"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <item name="cast_notification_id" type="id"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <item name="crash_reporting_present" type="id"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="home" type="id"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.0/res/values/values.xml -->
     <eat-comment/>
     <item name="item_touch_helper_previous_elevation" type="id"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <item name="progress_circular" type="id"/>
     <item name="progress_horizontal" type="id"/>
@@ -496,28 +496,28 @@
     <integer name="abc_config_activityDefaultDur">220</integer>
     <integer name="abc_config_activityShortDur">150</integer>
     <integer name="cancel_button_image_alpha">127</integer>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="cast_libraries_material_featurehighlight_pulse_base_alpha">138</integer>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/analytics.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/analytics.xml -->
     <eat-comment/>
     <item format="integer" name="ga_dispatchPeriod" type="integer">3</item>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="google_play_services_version">9877000</integer>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="mr_controller_volume_group_list_animation_duration_ms">400</integer>
     <integer name="mr_controller_volume_group_list_fade_in_duration_ms">400</integer>
     <integer name="mr_controller_volume_group_list_fade_out_duration_ms">200</integer>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <integer name="status_bar_notification_info_maxnum">999</integer>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="Network_in">網路連線中!!!"</string>
     <string name="Network_status">網路狀態</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="abc_action_bar_home_description">Navigate home</string>
     <string name="abc_action_bar_home_description_format">%1$s, %2$s</string>
@@ -550,17 +550,17 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="accept">Accept</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="action_settings">贊助</string>
     <string name="admob_unit_id">ca-app-pub-7019441527375550/4887903024</string>
     <string name="app_name">動物園好好玩</string>
     <string name="banner_ad_unit_id">ca-app-pub-7019441527375550/1880466629</string>
     <string name="cancel">取消</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="cast_ad_label">Ad</string>
     <string name="cast_casting_to_device">Casting to %1$s</string>
@@ -579,12 +579,12 @@
     <string name="cast_invalid_stream_duration_text" translatable="false">--:--</string>
     <string name="cast_invalid_stream_position_text" translatable="false">--:--</string>
     <string name="cast_mute">Mute</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="cast_notification_connected_message">Connected to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_connecting_message">Connecting to <ns1:g id="name">%1$s</ns1:g></string>
     <string name="cast_notification_disconnect">Disconnect</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="cast_pause">Pause</string>
     <string name="cast_play">Play</string>
@@ -605,10 +605,10 @@
     <string name="cast_tracks_chooser_dialog_ok">OK</string>
     <string name="cast_tracks_chooser_dialog_subtitles">Subtitles</string>
     <string name="cast_unmute">Unmute</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">Learn More</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">Visit &lt;b>facebook.com/device&lt;/b> and enter your code.</string>
     <string name="com_facebook_image_download_unknown_error">Unexpected error while downloading an image.</string>
@@ -626,11 +626,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Logged in using Facebook</string>
     <string name="com_facebook_send_button_text">Send</string>
     <string name="com_facebook_share_button_text">Share</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">Skip Ad</string>
     <string name="com_facebook_skip_ad_in">Skip Ad in</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <string name="com_facebook_smart_device_instructions_0">Confirm your code on Facebook.</string>
     <string name="com_facebook_smart_device_instructions_1">1.\tGo to the Menu</string>
@@ -641,7 +641,7 @@
     <string name="com_facebook_smart_login_confirmation_continue_as">Continue as %1$s</string>
     <string name="com_facebook_smart_login_confirmation_title">Confirm Login</string>
     <string name="com_facebook_tooltip_default">New! You\'re in control - choose what info you want to share with apps.</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable</string>
     <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
@@ -650,10 +650,10 @@
     <string name="common_google_play_services_install_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your device.</string>
     <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
     <string name="common_google_play_services_notification_ticker">Google Play services error</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. Please try again.</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are not supported by your device.</string>
     <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
@@ -664,7 +664,7 @@
     <string name="common_open_on_phone">Open on phone</string>
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="create_calendar_message">Allow Ad to create a calendar event?</string>
     <string name="create_calendar_title">Create calendar event</string>
@@ -673,32 +673,32 @@
     <string name="debug_menu_title">Select a Debug Mode</string>
     <string name="debug_menu_troubleshooting">Troubleshooting</string>
     <string name="decline">Decline</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/generated/res/google-services/debug/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/generated/res/google-services/debug/values/values.xml -->
     <eat-comment/>
     <string name="default_web_client_id" translatable="false">288164734372-e6srsdkb53id69lgkendti7anv1bhcm9.apps.googleusercontent.com</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="facebook_app_id">583698071813390</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/generated/res/google-services/debug/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/generated/res/google-services/debug/values/values.xml -->
     <eat-comment/>
     <string name="firebase_database_url" translatable="false">https://sevenpeoplebook.firebaseio.com</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/analytics.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/analytics.xml -->
     <eat-comment/>
     <string name="ga_trackingId">UA-58399132-49</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/generated/res/google-services/debug/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/generated/res/google-services/debug/values/values.xml -->
     <eat-comment/>
     <string name="gcm_defaultSenderId" translatable="false">288164734372</string>
     <string name="google_api_key" translatable="false">AIzaSyDJJjZv_cTlmUmzDXS7QCHflsOaFq5nncs</string>
     <string name="google_app_id" translatable="false">1:288164734372:android:d12cf404cb02bc09</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDJJjZv_cTlmUmzDXS7QCHflsOaFq5nncs</string>
     <string name="google_storage_bucket" translatable="false">sevenpeoplebook.appspot.com</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Send</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="mr_button_content_description">Cast button</string>
     <string name="mr_chooser_searching">Finding devices</string>
@@ -716,47 +716,47 @@
     <string name="mr_controller_stop">Stop casting</string>
     <string name="mr_system_route_name">System</string>
     <string name="mr_user_route_category_name">Devices</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="my_license_key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAl52KvbtkT+zi2HpRL7v1iJw3bRoqrNyz8QPzGXaXdtZe2loA+Ab9T7hcdvXvtgwChpouqvUS3MEl8zPH5lgctC6zzM3JGNGrvfJ0OyYvHPhPdBcx+uaESduqpXAuR2nptCZK5GhedclqQzqAnqqikcLPbe83NpothiqXI8olTcWkxBtDi1xEENY3wJWSP+MmFulhG9Cw1vjY3GEEOGdw17eUrut24f/nLshlUXShMiWKw43GWh0HJB2oVQ2LmqbCaoCAXWLr3DBpEYTJXx6JwqIcA+EwbRZWlH70XDImRXBcQG9mtrN2cSrT/LiwEQY7QVOU7e+67lgy1KBANSn+ZQIDAQAB</string>
     <string name="no_network">目前無網路連線</string>
     <string name="ok">確定</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="place_autocomplete_clear_button">Clear search</string>
     <string name="place_autocomplete_search_hint">Search</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="search_menu_title">Search</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="setting">設定</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="store_picture_message">"Allow Ad to store image in Picture gallery?"</string>
     <string name="store_picture_title">Save image</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="tagmanager_preview_dialog_button">Continue</string>
     <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
     <string name="tagmanager_preview_dialog_title">Preview</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/TaipeiZoo/admobadapter/unspecified/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/TaipeiZoo/admobadapter/unspecified/res/values/values.xml -->
     <eat-comment/>
     <string name="test_admob_unit_id">ca-app-pub-7019441527375550/4887903024</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/strings.xml -->
     <eat-comment/>
     <string name="title_activity_headpage">動物園好好玩</string>
     <string name="title_activity_in_app_billing">贊助開發者</string>
     <string name="title_activity_spinner">SpinnerActivity</string>
     <string name="title_activity_two">動物園好好玩</string>
     <string name="waitting">請稍後.....</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <string name="wallet_buy_button_place_holder">Buy with Google</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
     <eat-comment/>
     <style name="AdLocusDialogTheme" parent="android:Theme.Light.NoTitleBar">
          <item name="android:windowIsTranslucent">true</item>
@@ -766,13 +766,13 @@
          <item name="android:windowIsFloating">true</item>
          <item name="android:backgroundDimEnabled">false</item>
      </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>
     <style name="AlertDialog.AppCompat.Light" parent="Base.AlertDialog.AppCompat.Light"/>
     <style name="Animation.AppCompat.Dialog" parent="Base.Animation.AppCompat.Dialog"/>
     <style name="Animation.AppCompat.DropDownUp" parent="Base.Animation.AppCompat.DropDownUp"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/styles.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/styles.xml -->
     <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
@@ -784,7 +784,7 @@
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.AlertDialog.AppCompat" parent="android:Widget">
         <item name="android:layout">@layout/abc_alert_dialog_material</item>
@@ -802,7 +802,7 @@
         <item name="android:windowEnterAnimation">@anim/abc_grow_fade_in_from_bottom</item>
         <item name="android:windowExitAnimation">@anim/abc_shrink_fade_out_from_bottom</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.CardView" parent="android:Widget">
         <item name="cardCornerRadius">@dimen/cardview_default_radius</item>
@@ -811,7 +811,7 @@
         <item name="cardUseCompatPadding">false</item>
         <item name="cardPreventCornerOverlap">true</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Base.DialogWindowTitle.AppCompat" parent="android:Widget">
         <item name="android:maxLines">1</item>
@@ -1797,7 +1797,7 @@
         <item name="android:minWidth">56dp</item>
         <item name="android:scaleType">center</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/cardview-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="CardView" parent="Base.CardView">
     </style>
@@ -1807,7 +1807,7 @@
     <style name="CardView.Light">
         <item name="cardBackgroundColor">@color/cardview_light_background</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <style name="CastExpandedController">
 <item name="castControlButtons">@array/cast_expanded_controller_default_control_buttons</item>
@@ -1835,7 +1835,7 @@
 <item name="castIntroOverlayStyle">@style/CastIntroOverlay</item>
 <item name="castMiniControllerStyle">@style/CastMiniController</item>
 </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <style name="MessengerButton">
     <item name="android:clickable">true</item>
@@ -1895,7 +1895,7 @@
     <style name="MessengerButtonText.White.Small">
     <item name="android:drawableLeft">@drawable/messenger_bubble_small_blue</item>
   </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Platform.AppCompat" parent="android:Theme">
         <item name="android:windowNoTitle">true</item>
@@ -2124,7 +2124,7 @@
     <style name="TextAppearance.AppCompat.Widget.PopupMenu.Small" parent="Base.TextAppearance.AppCompat.Widget.PopupMenu.Small"/>
     <style name="TextAppearance.AppCompat.Widget.Switch" parent="Base.TextAppearance.AppCompat.Widget.Switch"/>
     <style name="TextAppearance.AppCompat.Widget.TextView.SpinnerItem" parent="Base.TextAppearance.AppCompat.Widget.TextView.SpinnerItem"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.CastIntroOverlay.Button" parent="android:style/TextAppearance">
 <item name="android:textColor">#FFFFFF</item>
@@ -2136,7 +2136,7 @@
 </style>
     <style name="TextAppearance.CastMiniController.Title" parent="android:style/TextAppearance.Medium">
 </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="TextAppearance.StatusBar.EventContent" parent=""/>
     <style name="TextAppearance.StatusBar.EventContent.Info" parent=""/>
@@ -2178,7 +2178,7 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.AppInvite.Preview" parent="Theme.AppInvite.Preview.Base">
 <item name="android:colorBackground">@android:color/white</item>
@@ -2187,7 +2187,7 @@
 </style>
     <style name="Theme.AppInvite.Preview.Base" parent="@android:style/Theme.Light.NoTitleBar">
 </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.IAPTheme" parent="android:Theme">
 <item name="android:windowIsFloating">true</item>
@@ -2197,7 +2197,7 @@
 <item name="android:backgroundDimEnabled">false</item>
 <item name="android:windowIsTranslucent">true</item>
 </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Theme.MediaRouter" parent="">
         <item name="android:windowNoTitle">false</item>
@@ -2260,7 +2260,7 @@
         <item name="mediaRouteControllerPrimaryTextStyle">@style/Widget.MediaRouter.ControllerText.Primary.Light</item>
         <item name="mediaRouteControllerSecondaryTextStyle">@style/Widget.MediaRouter.ControllerText.Secondary.Light</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="ThemeOverlay.AppCompat" parent="Base.ThemeOverlay.AppCompat"/>
     <style name="ThemeOverlay.AppCompat.ActionBar" parent="Base.ThemeOverlay.AppCompat.ActionBar"/>
@@ -2269,7 +2269,7 @@
     <style name="ThemeOverlay.AppCompat.Dialog" parent="Base.ThemeOverlay.AppCompat.Dialog"/>
     <style name="ThemeOverlay.AppCompat.Dialog.Alert" parent="Base.ThemeOverlay.AppCompat.Dialog.Alert"/>
     <style name="ThemeOverlay.AppCompat.Light" parent="Base.ThemeOverlay.AppCompat.Light"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.8.0/res/values/values.xml -->
     <eat-comment/>
     <style name="WalletFragmentDefaultButtonTextAppearance">
 <item name="android:textColorLink">@color/wallet_link_text_light</item>
@@ -2303,7 +2303,7 @@
 <item name="buyButtonHeight">48dp</item>
 <item name="maskedWalletDetailsBackground">@color/wallet_bright_foreground_holo_light</item>
 </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.AppCompat.ActionBar" parent="Base.Widget.AppCompat.ActionBar">
     </style>
@@ -2401,7 +2401,7 @@
     <style name="Widget.AppCompat.TextView.SpinnerItem" parent="Base.Widget.AppCompat.TextView.SpinnerItem"/>
     <style name="Widget.AppCompat.Toolbar" parent="Base.Widget.AppCompat.Toolbar"/>
     <style name="Widget.AppCompat.Toolbar.Button.Navigation" parent="Base.Widget.AppCompat.Toolbar.Button.Navigation"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values/values.xml -->
     <eat-comment/>
     <style name="Widget.MediaRouter.ChooserText" parent="">
         <item name="android:fontFamily">sans-serif</item>
@@ -2462,7 +2462,7 @@
         <item name="android:contentDescription">@string/mr_button_content_description</item>
         <item name="externalRouteEnabledDrawable">@drawable/mr_ic_media_route_mono_dark</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values/values.xml -->
     <eat-comment/>
     <style name="bigview_func_btn_style">
         <item name="android:layout_width">0dp</item>
@@ -2483,7 +2483,7 @@
     </style>
     <style name="bv_text_content" parent="@android:style/TextAppearance.StatusBar.EventContent"/>
     <style name="bv_text_title" parent="@android:style/TextAppearance.StatusBar.EventContent.Title"/>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <style name="com_facebook_activity_theme" parent="@style/Theme.AppCompat.NoActionBar">
         <item name="android:windowIsTranslucent">true</item>
@@ -2538,7 +2538,7 @@
         <item name="android:drawableLeft">@null</item>
         <item name="android:textColor">#4b5164</item>
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/themes.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/values/themes.xml -->
     <eat-comment/>
     <style name="loading_dialog" parent="android:Theme.Dialog">
         <item name="android:windowFrame">@null</item>		<!-- Dialog的windowFrame框为无 -->
@@ -2549,7 +2549,7 @@
         <item name="android:windowContentOverlay">@null</item>	<!-- 也是个drawable，定义contentoverlay的背景 -->
         <item name="android:backgroundDimEnabled">false</item>	<!-- 背景是否模糊显示 -->
     </style>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
+    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values/values.xml -->
     <eat-comment/>
     <style name="tooltip_bubble_text">
         <item name="android:textColor">@android:color/white</item>

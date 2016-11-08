@@ -21,4 +21,4 @@
           app:alpha="?android:attr/disabledAlpha"
           android:color="?android:attr/textColorSecondary"/>
     <item android:color="?attr/colorAccent"/>
-</selector><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color/abc_btn_colored_borderless_text_material.xml -->
+</selector><!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color/abc_btn_colored_borderless_text_material.xml -->

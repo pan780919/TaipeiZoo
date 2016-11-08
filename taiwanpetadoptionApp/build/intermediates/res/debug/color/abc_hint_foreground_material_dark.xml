@@ -22,4 +22,4 @@
     <item android:alpha="@dimen/hint_alpha_material_dark"
           android:color="@color/foreground_material_dark" />
 </selector>
-<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color/abc_hint_foreground_material_dark.xml -->
+<!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/color/abc_hint_foreground_material_dark.xml -->
