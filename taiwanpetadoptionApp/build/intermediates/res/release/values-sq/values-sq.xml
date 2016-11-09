@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="5835639618285370804" name="accept">"Prano"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="4778414446709286370" name="cast_ad_label">"Reklamë"</string>
     <string msgid="366047012176970604" name="cast_casting_to_device">"Duke transmetuar te %1$s"</string>
@@ -20,12 +20,12 @@
     <string msgid="7868672855975238403" name="cast_forward_30">"Përpara tridhjetë sekonda"</string>
     <string msgid="6885943100773268783" name="cast_intro_overlay_button_text">"@android:string/ok"</string>
     <string msgid="5637297909372905371" name="cast_mute">"Çaktivizo audion"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="5319032370587661362" name="cast_notification_connected_message">"U lidh me <ns1:g id="NAME">%1$s</ns1:g>"</string>
     <string msgid="2758865089947797888" name="cast_notification_connecting_message">"Po lidhet me <ns1:g id="NAME">%1$s</ns1:g>"</string>
     <string msgid="5232008641593292969" name="cast_notification_disconnect">"Shkëpute"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="5308503786390460607" name="cast_pause">"Ndërprit"</string>
     <string msgid="5906987965619702702" name="cast_play">"Luaj"</string>
@@ -46,7 +46,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Në rregull"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Titrat"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"Aktivizo audion"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="8585111718777012708" name="common_google_play_services_enable_button">"Aktivizo"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë nëse nuk aktivizon shërbimet e \"Luaj me Google\"."</string>
@@ -55,10 +55,10 @@
     <string msgid="8179894293032530091" name="common_google_play_services_install_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë pa shërbimet e Google Play, të cilat mungojnë në pajisjen tënde."</string>
     <string msgid="7442193194585196676" name="common_google_play_services_install_title">"Merr shërbimet e \"Luaj me Google\""</string>
     <string msgid="180394615667698242" name="common_google_play_services_notification_ticker">"Gabim në shërbimet e \"Luaj me Google\""</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="2518680582564677258" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ka probleme me shërbimet e Google Play. Provo sërish."</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="5501187292256987189" name="common_google_play_services_unsupported_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> nuk do të funksionojë pa shërbimet e Google Play, të cilat nuk mbështeten nga pajisja jote."</string>
     <string msgid="8172070149091615356" name="common_google_play_services_update_button">"Përditëso"</string>
@@ -69,7 +69,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Hape në telefon"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Identifikohu"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Identifikohu me Google"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="6155048007205742679" name="create_calendar_message">"Të lejohet që reklama të krijojë një ngjarje në kalendar?"</string>
     <string msgid="7967007864778154790" name="create_calendar_title">"Krijo një ngjarje në kalendar"</string>
@@ -78,11 +78,11 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Zgjidh një modalitet korrigjimi"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Zgjidhja e problemeve"</string>
     <string msgid="6099173376375995052" name="decline">"Refuzo"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"Pastro kërkimin"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"Kërko"</string>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-sq/values.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.8.0/res/values-sq/values.xml -->
     <eat-comment/>
     <string msgid="8020323581538738027" name="store_picture_message">"Të lejohet që reklama të ruajë imazhin në \"Galerinë e fotografive\"?"</string>
     <string msgid="4180630057627064606" name="store_picture_title">"Ruaje imazhin"</string>

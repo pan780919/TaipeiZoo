@@ -1,14 +1,14 @@
--injars /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/allclasses.jar
--outjars /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/componentClasses.jar
+-injars 'C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\multi-dex\release\allclasses.jar'
+-outjars 'C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\multi-dex\release\componentClasses.jar'
 
--libraryjars /Users/jackpan/Library/Android/sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
+-libraryjars 'C:\Users\HYXEN20141227\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
 
 -forceprocessing
 -dontoptimize
 -dontobfuscate
 -dontpreverify
 -dontwarn
--printconfiguration /Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/multi-dex/release/components.flags
+-printconfiguration 'C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\multi-dex\release\components.flags'
 
 
 -keep class android.support.multidex.MultiDexApplication {

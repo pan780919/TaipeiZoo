@@ -23,4 +23,4 @@
     <item android:state_focused="true" android:state_enabled="true" android:drawable="@drawable/com_facebook_button_icon_blue"/>
     <item android:drawable="@drawable/com_facebook_button_icon_white"/>
 </selector>
-<!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/drawable/com_facebook_button_icon.xml -->
+<!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/drawable/com_facebook_button_icon.xml -->

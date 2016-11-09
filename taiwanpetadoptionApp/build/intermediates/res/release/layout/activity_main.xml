@@ -27,13 +27,12 @@
                 android:text="篩選:"
                 android:textSize="28dp"></TextView>
 
-            <TextView
-                android:id="@+id/daytex"
+            <Button
+                android:id="@+id/inviteBtn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
-
-                android:textSize="20dp"></TextView>
+                android:text="邀請朋友"
+                android:textSize="20dp"></Button>
         </LinearLayout>
 
 
@@ -79,4 +78,4 @@
     <!--ads:adUnitId="@string/banner_ad_unit_id" >-->
     <!--</com.google.android.gms.ads.AdView>-->
 
-</LinearLayout><!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_main.xml -->
+</LinearLayout><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/src/main/res/layout/activity_main.xml -->

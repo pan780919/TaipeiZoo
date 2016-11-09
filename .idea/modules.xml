@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TaipeiZoo.iml" filepath="$PROJECT_DIR$/TaipeiZoo.iml" />
-      <module fileurl="file://$PROJECT_DIR$/admobadapter/admobadapter.iml" filepath="$PROJECT_DIR$/admobadapter/admobadapter.iml" />
       <module fileurl="file://$PROJECT_DIR$/taiwanpetadoptionApp/taiwanpetadoptionApp.iml" filepath="$PROJECT_DIR$/taiwanpetadoptionApp/taiwanpetadoptionApp.iml" />
     </modules>
   </component>

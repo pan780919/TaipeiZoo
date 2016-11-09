@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-large-v4/values-large-v4.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/res/values-large-v4/values-large-v4.xml -->
     <eat-comment/>
     <dimen name="abc_config_prefDialogWidth">440dp</dimen>
     <item name="abc_dialog_fixed_height_major" type="dimen">60%</item>
