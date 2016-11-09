@@ -27,13 +27,12 @@
                 android:text="篩選:"
                 android:textSize="28dp"></TextView>
 
-            <TextView
-                android:id="@+id/daytex"
+            <Button
+                android:id="@+id/inviteBtn"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-
-
-                android:textSize="20dp"></TextView>
+                android:text="邀請朋友"
+                android:textSize="20dp"></Button>
         </LinearLayout>
 
 

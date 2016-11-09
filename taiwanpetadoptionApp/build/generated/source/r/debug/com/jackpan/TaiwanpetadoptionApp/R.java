@@ -3726,7 +3726,6 @@ containing a value of this type.
         public static final int custom=0x7f0e0094;
         public static final int customPanel=0x7f0e0093;
         public static final int dark=0x7f0e002a;
-        public static final int daytex=0x7f0e00b2;
         public static final int daytext=0x7f0e0147;
         public static final int daytext2=0x7f0e0148;
         public static final int decor_content_parent=0x7f0e009d;
@@ -3773,6 +3772,7 @@ containing a value of this type.
         public static final int intent_data=0x7f0e002f;
         public static final int intent_data_id=0x7f0e0030;
         public static final int intent_extra_data=0x7f0e0031;
+        public static final int inviteBtn=0x7f0e00b2;
         public static final int item_touch_helper_previous_elevation=0x7f0e0013;
         public static final int ivImage=0x7f0e00e4;
         public static final int ivLogo=0x7f0e00e1;

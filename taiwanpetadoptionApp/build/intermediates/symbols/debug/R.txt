@@ -1395,7 +1395,6 @@ int id crash_reporting_present 0x7f0e0011
 int id custom 0x7f0e0094
 int id customPanel 0x7f0e0093
 int id dark 0x7f0e002a
-int id daytex 0x7f0e00b2
 int id daytext 0x7f0e0147
 int id daytext2 0x7f0e0148
 int id decor_content_parent 0x7f0e009d
@@ -1442,6 +1441,7 @@ int id intent_activity 0x7f0e002e
 int id intent_data 0x7f0e002f
 int id intent_data_id 0x7f0e0030
 int id intent_extra_data 0x7f0e0031
+int id inviteBtn 0x7f0e00b2
 int id item_touch_helper_previous_elevation 0x7f0e0013
 int id ivImage 0x7f0e00e4
 int id ivLogo 0x7f0e00e1

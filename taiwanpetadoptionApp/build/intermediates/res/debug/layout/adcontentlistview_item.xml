@@ -33,4 +33,4 @@
             android:layout_marginTop="2dp"
             android:id="@+id/btnAction"/>
     </LinearLayout>
-</com.google.android.gms.ads.formats.NativeContentAdView><!-- From: file:/Users/jackpan/TaipeiZoo/admobadapter/src/main/res/layout/adcontentlistview_item.xml --><!-- From: file:/Users/jackpan/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/TaipeiZoo/admobadapter/unspecified/res/layout/adcontentlistview_item.xml -->
+</com.google.android.gms.ads.formats.NativeContentAdView><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/admobadapter/src/main/res/layout/adcontentlistview_item.xml --><!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/TaipeiZoo/admobadapter/unspecified/res/layout/adcontentlistview_item.xml -->

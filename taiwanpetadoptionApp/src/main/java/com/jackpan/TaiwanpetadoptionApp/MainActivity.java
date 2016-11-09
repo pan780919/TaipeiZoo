@@ -7,6 +7,7 @@ import android.content.DialogInterface;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.net.Uri;
 import android.os.AsyncTask;
 import android.os.Bundle;
 import android.util.Log;
@@ -19,6 +20,7 @@ import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
 import android.widget.ArrayAdapter;
 import android.widget.BaseAdapter;
+import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.RelativeLayout;
@@ -29,6 +31,11 @@ import android.widget.Toast;
 import com.MyAPI.VersionChecker;
 import com.adlocus.PushAd;
 import com.bumptech.glide.Glide;
+import com.facebook.FacebookSdk;
+import com.facebook.appevents.AppEventsLogger;
+import com.facebook.applinks.AppLinkData;
+import com.facebook.share.model.AppInviteContent;
+import com.facebook.share.widget.AppInviteDialog;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -55,6 +62,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 import Appkey.MyAdKey;
+import bolts.AppLinks;
 
 //import com.adlocus.AdLocusLayout$ErrorCode;
 import com.facebook.ads.*;
@@ -76,6 +84,7 @@ public class MainActivity extends Activity {
 	private MyAdapter mAdapter;
 	private ArrayAdapter<String> mAdapter2= null;
 	private DatabaseReference mDatabase;
+	private Button mInviteBtn;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -87,6 +96,41 @@ public class MainActivity extends Activity {
 		setContentView(R.layout.activity_main);
 		getWindow().addFlags(WindowManager.LayoutParams.FLAG_KEEP_SCREEN_ON);
 //		MyGAManager.sendScreenName(this,"搜尋頁面");
+		FacebookSdk.sdkInitialize(getApplicationContext());
+		AppEventsLogger.activateApp(this);
+
+		mInviteBtn = (Button)findViewById(R.id.inviteBtn);
+		mInviteBtn.setOnClickListener(new View.OnClickListener() {
+			@Override
+			public void onClick(View v) {
+				String appLinkUrl, previewImageUrl;
+				appLinkUrl = "https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo";
+				previewImageUrl = "https://lh3.googleusercontent.com/2TPsyspPyf6WOYUEjduISOrg0HZH_xqtwa0G5LJsclL-knggHE0-KdbisjutLpr7lo8=w300-rw";
+
+				if (AppInviteDialog.canShow()) {
+					AppInviteContent content = new AppInviteContent.Builder()
+							.setApplinkUrl(appLinkUrl)
+							.setPreviewImageUrl(previewImageUrl)
+							.build();
+					AppInviteDialog.show(MainActivity.this, content);
+				}
+			}
+		});
+
+		Uri targetUrl =
+				AppLinks.getTargetUrlFromInboundIntent(this, getIntent());
+		if (targetUrl != null) {
+			Log.i("Activity", "App Link Target URL: " + targetUrl.toString());
+		} else {
+			AppLinkData.fetchDeferredAppLinkData(
+					getApplication(),
+					new AppLinkData.CompletionHandler() {
+						@Override
+						public void onDeferredAppLinkDataFetched(AppLinkData appLinkData) {
+							//process applink data
+						}
+					});
+		}
 		progressDialog = ProgressDialog.show(MainActivity.this, "讀取中", "目前資料量比較龐大，請耐心等候！！", false, false, new DialogInterface.OnCancelListener() {
 
 			@Override
