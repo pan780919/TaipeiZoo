@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Aceptar"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Subtítulos"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"Activar sonido"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-es/values-es.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">Aprende más</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-es/values-es.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">Visita &lt;b>facebook.com/device&lt;/b> en tu smartphone u ordenador e introduce este código:</string>
     <string name="com_facebook_image_download_unknown_error">Se produjo un error inesperado al descargar una imagen.</string>
@@ -88,11 +88,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Sesión iniciada con Facebook</string>
     <string name="com_facebook_send_button_text">Enviar</string>
     <string name="com_facebook_share_button_text">Compartir</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-es/values-es.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">Skip Ad</string>
     <string name="com_facebook_skip_ad_in">Skip Ad en</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-es/values-es.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">¡Nuevo! Tú tienes el control: elige qué información quieres compartir con las aplicaciones.</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-es/values.xml -->
@@ -127,7 +127,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Seleccionar un modo de depuración"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Solucionar problemas"</string>
     <string msgid="6099173376375995052" name="decline">"Rechazar"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-es/values-es.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-es/values-es.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Enviar</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-es/values-es.xml -->

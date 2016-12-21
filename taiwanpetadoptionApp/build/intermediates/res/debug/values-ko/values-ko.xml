@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"확인"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"자막"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"음소거 해제"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">자세히</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">스마트폰이나 컴퓨터에서 &lt;b>facebook.com/device&lt;/b> 주소를 방문하여 다음 코드를 입력하세요.</string>
     <string name="com_facebook_image_download_unknown_error">이미지를 다운로드하는 중 예기치 않은 오류가 발생했습니다.</string>
@@ -88,11 +88,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Facebook 계정으로 로그인함</string>
     <string name="com_facebook_send_button_text">보내기</string>
     <string name="com_facebook_share_button_text">공유하기</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">건너뛰기 광고</string>
     <string name="com_facebook_skip_ad_in">건너뛰기 광고</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">새로운 기능! 이제 앱과 어떤 정보를 공유할지 자유롭게 선택할 수 있습니다.</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-ko/values.xml -->
@@ -127,7 +127,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"디버그 모드 선택"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"문제해결"</string>
     <string msgid="6099173376375995052" name="decline">"거부"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-ko/values-ko.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-ko/values-ko.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">보내기</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-ko/values-ko.xml -->

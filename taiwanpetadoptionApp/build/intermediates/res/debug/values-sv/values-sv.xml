@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"Ok"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Undertexter"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"Slå på ljudet"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-sv/values-sv.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">Lära sig mer</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-sv/values-sv.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">Besök &lt;b>facebook.com/device&lt;/b> på din smartphone eller dator och ange den här koden:</string>
     <string name="com_facebook_image_download_unknown_error">Oväntat fel vid hämtning av en bild.</string>
@@ -88,11 +88,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Inloggad med Facebook</string>
     <string name="com_facebook_send_button_text">Skicka</string>
     <string name="com_facebook_share_button_text">Dela</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-sv/values-sv.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">SKIP Ad</string>
     <string name="com_facebook_skip_ad_in">SKIP Ad i</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-sv/values-sv.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">Nyhet! Du bestämmer – välj vilken info du vill dela med appar.</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-sv/values.xml -->
@@ -127,7 +127,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Välj ett felsökningsläge"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Felsökning"</string>
     <string msgid="6099173376375995052" name="decline">"Godkänn inte"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-sv/values-sv.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-sv/values-sv.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Skicka</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-sv/values-sv.xml -->

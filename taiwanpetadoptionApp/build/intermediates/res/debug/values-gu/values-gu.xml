@@ -46,7 +46,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ઓકે"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"ઉપશીર્ષકો"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"અનમ્યૂટ કરો"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-gu/values-gu.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-gu/values-gu.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">તમારા સ્માર્ટફોન અથવા કમ્પ્યુટર પર &lt;b>facebook.com/device&lt;/b> ની મુલાકાત લો અને આ કોડ દાખલ કરો:</string>
     <string name="com_facebook_image_download_unknown_error">છબી ડાઉનલોડ કરતી વખતે અનપેક્ષિત ભૂલ આવી.</string>
@@ -97,7 +97,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"ડીબગ મોડ પસંદ કરો"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"સમસ્યા નિવારણ"</string>
     <string msgid="6099173376375995052" name="decline">"નકારો"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-gu/values-gu.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-gu/values-gu.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">મોકલો</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-gu/values.xml -->

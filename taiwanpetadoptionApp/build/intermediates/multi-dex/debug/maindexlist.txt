@@ -246,6 +246,7 @@ com/google/android/gms/wearable/DataApi$DataListener.class
 android/support/v4/media/VolumeProviderCompat$1.class
 com/google/android/gms/games/internal/experience/ExperienceEvent.class
 com/google/android/gms/internal/zzjw.class
+com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$8$1.class
 com/google/firebase/database/IgnoreExtraProperties.class
 com/google/android/gms/location/places/internal/PlaceLocalization.class
 android/support/v4/view/OnApplyWindowInsetsListener.class
@@ -282,6 +283,7 @@ com/google/android/gms/internal/zzvq.class
 android/support/v4/app/Fragment$SavedState.class
 com/google/android/gms/ads/internal/overlay/zzd.class
 android/support/v4/media/session/PlaybackStateCompat$1.class
+com/firebase/client/ChildEventListener.class
 com/google/android/gms/wallet/Address.class
 com/google/android/gms/awareness/state/HeadphoneState$State.class
 android/support/annotation/FloatRange.class
@@ -301,7 +303,6 @@ android/support/v4/view/GravityCompat.class
 com/fasterxml/jackson/annotation/JsonValue.class
 android/support/v4/media/session/MediaSessionCompat$MediaSessionImplBase.class
 com/google/android/gms/analytics/HitBuilders$ItemBuilder.class
-com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$7$1.class
 com/fasterxml/jackson/databind/ser/std/StdArraySerializers$CharArraySerializer.class
 com/fasterxml/jackson/databind/deser/std/NumberDeserializers$NumberDeserializer.class
 android/support/v4/app/FragmentTabHost.class
@@ -832,7 +833,6 @@ com/google/android/gms/internal/zzhj.class
 com/google/android/gms/common/internal/safeparcel/zza$zza.class
 com/google/android/gms/internal/zzdy.class
 android/support/v7/app/AppCompatActivity.class
-com/facebook/ads/internal/i/l.class
 com/google/android/gms/internal/zzdi.class
 com/adlocus/AdLocusTargeting.class
 android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class
@@ -896,6 +896,7 @@ android/support/v7/widget/RecyclerView$Recycler.class
 com/google/android/gms/internal/zzagp.class
 com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$6.class
 android/support/v4/view/ViewCompat$ViewCompatImpl.class
+com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$9.class
 com/google/android/gms/games/social/Social.class
 android/support/v4/app/FragmentManagerNonConfig.class
 android/support/v7/widget/ChildHelper$Callback.class
@@ -1320,6 +1321,7 @@ com/google/ads/mediation/customevent/CustomEventInterstitialListener.class
 com/google/firebase/database/DatabaseReference.class
 android/support/v4/net/ConnectivityManagerCompatJellyBean.class
 com/fasterxml/jackson/databind/deser/std/NumberDeserializers$CharacterDeserializer.class
+com/jackpan/TaiwanpetadoptionApp/TaipeiZoo.class
 com/google/android/gms/ads/internal/overlay/zzaa.class
 android/support/v4/app/ActivityCompatHoneycomb.class
 com/google/android/gms/appindexing/AppIndexApi.class
@@ -1568,6 +1570,7 @@ com/google/android/gms/internal/zzhg.class
 com/fasterxml/jackson/databind/deser/std/JacksonDeserializers$TokenBufferDeserializer.class
 android/support/annotation/RequiresPermission$Read.class
 com/google/android/gms/internal/zzhq.class
+com/facebook/ads/internal/i/m.class
 com/google/firebase/iid/zzg.class
 com/google/android/gms/nearby/messages/internal/UnsubscribeRequest.class
 android/support/annotation/Nullable.class

@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Phụ đề"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"Bật tiếng"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-vi/values-vi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-vi/values-vi.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">Tìm hiểu thêm</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-vi/values-vi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-vi/values-vi.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">Truy cập &lt;b>facebook.com/device&lt;/b> trên điện thoại thông minh hoặc máy tính và nhập mã sau:</string>
     <string name="com_facebook_image_download_unknown_error">Lỗi bất ngờ khi tải ảnh xuống.</string>
@@ -88,11 +88,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Đã đăng nhập bằng Facebook</string>
     <string name="com_facebook_send_button_text">Gửi</string>
     <string name="com_facebook_share_button_text">Chia sẻ</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-vi/values-vi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-vi/values-vi.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">Bỏ qua quảng cáo</string>
     <string name="com_facebook_skip_ad_in">Bỏ qua quảng cáo trong</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-vi/values-vi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-vi/values-vi.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">Mới! Bạn đang có quyền kiểm soát - hãy chọn thông tin bạn muốn chia sẻ với các ứng dụng.</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-vi/values.xml -->
@@ -127,7 +127,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Chọn chế độ gỡ lỗi"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Khắc phục sự cố"</string>
     <string msgid="6099173376375995052" name="decline">"Từ chối"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-vi/values-vi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-vi/values-vi.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Gửi</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-vi/values-vi.xml -->

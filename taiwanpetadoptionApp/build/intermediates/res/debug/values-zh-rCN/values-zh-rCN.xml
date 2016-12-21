@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"确定"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"字幕"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"取消静音"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-zh-rCN/values-zh-rCN.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-zh-rCN/values-zh-rCN.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">了解更多信息</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-zh-rCN/values-zh-rCN.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-zh-rCN/values-zh-rCN.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">请用智能手机或电脑访问 &lt;b>facebook.com/device&lt;/b>，然后输入验证码：</string>
     <string name="com_facebook_image_download_unknown_error">下载图片时出现意外错误。</string>
@@ -88,11 +88,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">已使用 Facebook 登录</string>
     <string name="com_facebook_send_button_text">发送</string>
     <string name="com_facebook_share_button_text">分享</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-zh-rCN/values-zh-rCN.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-zh-rCN/values-zh-rCN.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">跳过广告</string>
     <string name="com_facebook_skip_ad_in">跳过广告</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-zh-rCN/values-zh-rCN.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-zh-rCN/values-zh-rCN.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">新增功能！一切任您掌控 — 选择您想通过应用分享的信息。</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-zh-rCN/values.xml -->
@@ -127,7 +127,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"选择调试模式"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"问题排查"</string>
     <string msgid="6099173376375995052" name="decline">"拒绝"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-zh-rCN/values-zh-rCN.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-zh-rCN/values-zh-rCN.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">发送</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-zh-rCN/values-zh-rCN.xml -->

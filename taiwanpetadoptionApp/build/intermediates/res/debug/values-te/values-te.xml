@@ -46,7 +46,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"సరే"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"ఉపశీర్షికలు"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"అన్‌మ్యూట్ చేయి"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-te/values-te.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-te/values-te.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">మీ స్మార్ట్‌ఫోన్ లేదా కంప్యూటర్‌లో &lt;b>facebook.com/device&lt;/b> సందర్శించి, ఈ కోడ్‌ను నమోదు చేయండి:</string>
     <string name="com_facebook_image_download_unknown_error">చిత్రాన్ని డౌన్‌లోడ్ చేస్తున్నప్పుడు ఊహించని లోపం ఏర్పడింది.</string>
@@ -97,7 +97,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"డీబగ్ మోడ్‌ను ఎంచుకోండి"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"సమస్య పరిష్కారం"</string>
     <string msgid="6099173376375995052" name="decline">"తిరస్కరించు"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-te/values-te.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-te/values-te.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">పంపు</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-te/values.xml -->

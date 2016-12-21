@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ठीक"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"उपशीर्षक"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"अनम्यूट करें"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-hi/values-hi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-hi/values-hi.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">और जानो</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-hi/values-hi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-hi/values-hi.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">अपने स्मार्टफ़ोन या कंप्यूटर पर &lt;b>facebook.com/device&lt;/b> पर जाएँ और यह कोड डालें:</string>
     <string name="com_facebook_image_download_unknown_error">एक चित्र डाउनलोड करते समय अनपेक्षित गलती हुई.</string>
@@ -88,11 +88,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Facebook का उपयोग करके लॉग इन किया हुआ है</string>
     <string name="com_facebook_send_button_text">भेजें</string>
     <string name="com_facebook_share_button_text">साझा करें</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-hi/values-hi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-hi/values-hi.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">छोड़ें विज्ञापन</string>
     <string name="com_facebook_skip_ad_in">छोड़ें विज्ञापन में</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-hi/values-hi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-hi/values-hi.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">नया! आप नियंत्रण में हैं - चुनें कि आप एप्लिकेशन से कौन-सी जानकारी साझा करना चाहते हैं.</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-hi/values.xml -->
@@ -127,7 +127,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"कोई डीबग मोड चुनें"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"समस्या निवारण करना"</string>
     <string msgid="6099173376375995052" name="decline">"अस्वीकार करें"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-hi/values-hi.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-hi/values-hi.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">भेजें</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-hi/values-hi.xml -->

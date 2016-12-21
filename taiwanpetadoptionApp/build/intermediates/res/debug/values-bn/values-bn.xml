@@ -46,7 +46,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"ঠিক আছে"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"সাবটাইটেলগুলি"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"সশব্দ করুন"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-bn/values-bn.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-bn/values-bn.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">আপনার কম্পিউটার বা স্মার্টফোন থেকে &lt;b>facebook.com/device&lt;/b> এ যান এবং এই কোডটিকে প্রবেশ করান:</string>
     <string name="com_facebook_image_download_unknown_error">একটি চিত্র ডাউনলোড করার সময়ে অপ্রত্যাশিত ত্রুটি দেখা দিচ্ছে৷</string>
@@ -97,7 +97,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"একটি ডিবাগ মোড নির্বাচন করুন"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"সমস্যা নিবারণ"</string>
     <string msgid="6099173376375995052" name="decline">"প্রত্যাখ্যান করুন"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-bn/values-bn.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-bn/values-bn.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">প্রেরণ করুন</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.8.0/res/values-bn/values.xml -->

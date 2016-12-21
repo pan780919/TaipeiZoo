@@ -33,6 +33,7 @@ import com.google.android.gms.location.LocationServices;
 import com.google.firebase.database.ChildEventListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
+import com.google.gson.Gson;
 import com.util.IabHelper;
 import com.util.IabResult;
 import com.util.Inventory;
@@ -63,7 +64,8 @@ public class HeadpageActivity extends Activity implements
 	protected Location mLastLocation;
 	private GoogleApiClient mGoogleApiClient;
 	private static final String TAG = "HeadpageActivity";
-	private  	ArrayList<String> name;
+	private  ArrayList<String> name;
+	private ArrayList<TaipeiZoo> list = new ArrayList<>();
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		getWindow().setFlags(WindowManager.LayoutParams.FLAG_FULLSCREEN,
@@ -171,42 +173,49 @@ public class HeadpageActivity extends Activity implements
 		GetButtonView();
 		setButtonEvent();
 		buildGoogleApiClient();
-//		Firebase.setAndroidContext(this);
-//		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
-//
-//		Firebase mFirebaseRef = new Firebase(url);
-////		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
-//
-//		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
-//			@Override
-//			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-////				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
+		Firebase.setAndroidContext(this);
+		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
+
+		Firebase mFirebaseRef = new Firebase(url);
+//		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
+
+		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
+			@Override
+			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+//				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
 //				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
 //				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
-//
-//			}
-//
-//			@Override
-//			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-//				Log.d(TAG, "onChildChanged: "+ (String) dataSnapshot.child("name").getValue());
-//				Log.d(TAG, "onChildChanged: "+ (Long) dataSnapshot.child("age").getValue());
-//			}
-//
-//			@Override
-//			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
-//
-//			}
-//
-//			@Override
-//			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-//
-//			}
-//
-//			@Override
-//			public void onCancelled(FirebaseError firebaseError) {
-//
-//			}
-//		});
+				TaipeiZoo taipeiZoo = dataSnapshot.getValue(TaipeiZoo.class);
+
+				list.add(taipeiZoo);
+
+			}
+
+			@Override
+			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+
+			}
+
+			@Override
+			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
+
+			}
+
+			@Override
+			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+
+			}
+
+			@Override
+			public void onCancelled(FirebaseError firebaseError) {
+
+			}
+		});
+		for (TaipeiZoo taipeiZoo : list) {
+			Log.d(TAG, "onCreate: "+taipeiZoo.getName());
+			Log.d(TAG, "onCreate: "+taipeiZoo.getAge());
+			Log.d(TAG, "onCreate: "+taipeiZoo.getLove());
+		}
 //		Firebase newPostRef = mFirebaseRef.child("posts").push();
 ////		String newPostKey = newPostRef.getKey();
 //		Map newPost = new HashMap();
@@ -264,6 +273,9 @@ public class HeadpageActivity extends Activity implements
 //			intent.setClass(HeadpageActivity.this, MainActivity.class);
 //			startActivity(intent);
 //			finish();
+			for (TaipeiZoo taipeiZoo : list) {
+				Log.d(TAG, "onClick: "+list.toString());
+			}
 			myDialog = ProgressDialog.show(HeadpageActivity.this, "請稍後片刻....",
 					"正在載入中", true);
 			new Thread() {

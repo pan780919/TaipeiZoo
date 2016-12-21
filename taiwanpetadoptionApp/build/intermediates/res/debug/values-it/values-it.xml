@@ -67,10 +67,10 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Sottotitoli"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"Riattiva audio"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-it/values-it.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-it/values-it.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">Ulteriori informazioni</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-it/values-it.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-it/values-it.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">Accedi a &lt;b>facebook.com/device&lt;/b> nel tuo smartphone o computer e inserisci questo codice:</string>
     <string name="com_facebook_image_download_unknown_error">Errore imprevisto durante il
@@ -90,11 +90,11 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Accesso effettuato con Facebook</string>
     <string name="com_facebook_send_button_text">Invia</string>
     <string name="com_facebook_share_button_text">Condividi</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-it/values-it.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-it/values-it.xml -->
     <eat-comment/>
     <string name="com_facebook_skip_ad">Skip DC</string>
     <string name="com_facebook_skip_ad_in">Skip DC in</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-it/values-it.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-it/values-it.xml -->
     <eat-comment/>
     <string name="com_facebook_tooltip_default">Novità! Il controllo è nelle tue mani: scegli quali informazioni condividere con le applicazioni.</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.8.0/res/values-it/values.xml -->
@@ -129,7 +129,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Seleziona una modalità di debug"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Risoluzione dei problemi"</string>
     <string msgid="6099173376375995052" name="decline">"Rifiuto"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-it/values-it.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-it/values-it.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Invia</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-it/values-it.xml -->

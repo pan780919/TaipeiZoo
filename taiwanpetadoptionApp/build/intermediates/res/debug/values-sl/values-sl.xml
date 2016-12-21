@@ -67,7 +67,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"V redu"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Podnapisi"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"Vklop zvoka"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-sl/values-sl.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.18.0/res/values-sl/values-sl.xml -->
     <eat-comment/>
     <string name="com_facebook_ads_learn_more">več</string>
     <string name="com_facebook_skip_ad">Skip Ad</string>

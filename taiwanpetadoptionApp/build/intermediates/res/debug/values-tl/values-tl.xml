@@ -67,7 +67,7 @@
     <string msgid="3804878371876790270" name="cast_tracks_chooser_dialog_ok">"OK"</string>
     <string msgid="2454147715032376208" name="cast_tracks_chooser_dialog_subtitles">"Mga Subtitle"</string>
     <string msgid="2913461521603516868" name="cast_unmute">"I-unmute"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-tl/values-tl.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-tl/values-tl.xml -->
     <eat-comment/>
     <string name="com_facebook_device_auth_instructions">Puntahan ang &lt;b>facebook.com/device&lt;/b> sa iyong smartphone o computer at ilagay ang code na ito:</string>
     <string name="com_facebook_image_download_unknown_error">Hindi inaasahang error habang dina-download ang imahe.</string>
@@ -118,7 +118,7 @@
     <string msgid="2039274714455389140" name="debug_menu_title">"Pumili ng Debug Mode"</string>
     <string msgid="1173358804935285568" name="debug_menu_troubleshooting">"Pagto-troubleshoot"</string>
     <string msgid="6099173376375995052" name="decline">"Tanggihan"</string>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.17.0/res/values-tl/values-tl.xml -->
+    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.18.0/res/values-tl/values-tl.xml -->
     <eat-comment/>
     <string name="messenger_send_button_text">Ipadala</string>
     <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/values-tl/values-tl.xml -->

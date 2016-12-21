@@ -85,6 +85,8 @@ public class MainActivity extends Activity {
 	private ArrayAdapter<String> mAdapter2= null;
 	private DatabaseReference mDatabase;
 	private Button mInviteBtn;
+	private ArrayList<TaipeiZoo> list = new ArrayList<>();
+	private static final String TAG = "MainActivity";
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -98,6 +100,8 @@ public class MainActivity extends Activity {
 //		MyGAManager.sendScreenName(this,"搜尋頁面");
 		FacebookSdk.sdkInitialize(getApplicationContext());
 		AppEventsLogger.activateApp(this);
+
+
 
 		mInviteBtn = (Button)findViewById(R.id.inviteBtn);
 		mInviteBtn.setOnClickListener(new View.OnClickListener() {

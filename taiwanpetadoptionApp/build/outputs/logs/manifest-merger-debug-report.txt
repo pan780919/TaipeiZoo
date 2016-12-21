@@ -18,7 +18,7 @@ ADDED from AndroidManifest.xml:2:1
 uses-sdk
 ADDED from AndroidManifest.xml:8:5
 MERGED from com.android.support:multidex:1.0.1:18:5
-MERGED from com.facebook.android:audience-network-sdk:4.17.0:8:5
+MERGED from com.facebook.android:audience-network-sdk:4.18.0:8:5
 MERGED from com.android.support:appcompat-v7:25.0.0:21:5
 MERGED from com.android.support:support-v4:25.0.0:21:5
 MERGED from com.android.support:support-compat:25.0.0:21:5
@@ -219,7 +219,7 @@ MERGED from com.android.support:support-core-ui:25.0.0:21:5
 MERGED from com.android.support:support-compat:25.0.0:21:5
 MERGED from com.android.support:support-core-utils:25.0.0:21:5
 MERGED from com.android.support:support-compat:25.0.0:21:5
-MERGED from com.facebook.android:facebook-android-sdk:4.17.0:24:5
+MERGED from com.facebook.android:facebook-android-sdk:4.18.0:24:5
 MERGED from com.android.support:support-v4:25.0.0:21:5
 MERGED from com.android.support:support-compat:25.0.0:21:5
 MERGED from com.android.support:support-media-compat:25.0.0:21:5
@@ -6444,7 +6444,7 @@ MERGED from com.android.support:support-core-ui:25.0.0:25:5
 MERGED from com.android.support:support-compat:25.0.0:25:5
 MERGED from com.android.support:support-core-utils:25.0.0:25:5
 MERGED from com.android.support:support-compat:25.0.0:25:5
-MERGED from com.facebook.android:facebook-android-sdk:4.17.0:28:5
+MERGED from com.facebook.android:facebook-android-sdk:4.18.0:28:5
 MERGED from com.android.support:support-v4:25.0.0:25:5
 MERGED from com.android.support:support-compat:25.0.0:25:5
 MERGED from com.android.support:support-media-compat:25.0.0:25:5
@@ -12892,23 +12892,23 @@ MERGED from com.google.android.gms:play-services-base:9.8.0:19:9
 	android:name
 		ADDED from com.google.android.gms:play-services-base:9.8.0:19:19
 activity#com.facebook.FacebookActivity
-ADDED from com.facebook.android:facebook-android-sdk:4.17.0:29:9
+ADDED from com.facebook.android:facebook-android-sdk:4.18.0:29:9
 	android:configChanges
-		ADDED from com.facebook.android:facebook-android-sdk:4.17.0:31:13
+		ADDED from com.facebook.android:facebook-android-sdk:4.18.0:31:13
 	android:theme
-		ADDED from com.facebook.android:facebook-android-sdk:4.17.0:32:13
+		ADDED from com.facebook.android:facebook-android-sdk:4.18.0:32:13
 	android:name
-		ADDED from com.facebook.android:facebook-android-sdk:4.17.0:30:13
+		ADDED from com.facebook.android:facebook-android-sdk:4.18.0:30:13
 activity#com.facebook.CustomTabActivity
-ADDED from com.facebook.android:facebook-android-sdk:4.17.0:33:9
+ADDED from com.facebook.android:facebook-android-sdk:4.18.0:33:9
 	android:exported
-		ADDED from com.facebook.android:facebook-android-sdk:4.17.0:35:13
+		ADDED from com.facebook.android:facebook-android-sdk:4.18.0:35:13
 	android:name
-		ADDED from com.facebook.android:facebook-android-sdk:4.17.0:34:13
+		ADDED from com.facebook.android:facebook-android-sdk:4.18.0:34:13
 activity#com.facebook.CustomTabMainActivity
-ADDED from com.facebook.android:facebook-android-sdk:4.17.0:37:9
+ADDED from com.facebook.android:facebook-android-sdk:4.18.0:37:9
 	android:name
-		ADDED from com.facebook.android:facebook-android-sdk:4.17.0:37:19
+		ADDED from com.facebook.android:facebook-android-sdk:4.18.0:37:19
 uses-feature#0x00020000
 ADDED from com.google.android.gms:play-services-maps:9.8.0:21:5
 MERGED from com.google.android.gms:play-services-maps:9.8.0:21:5
