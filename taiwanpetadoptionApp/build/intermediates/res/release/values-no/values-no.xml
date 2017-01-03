@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- From: file:/C:/Users/HYXEN20141227/Documents/TaipeiZoo/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.17.0/res/values-no/values-no.xml -->
-    <eat-comment/>
-    <string name="com_facebook_ads_learn_more">få mer informasjon</string>
-    <string name="com_facebook_skip_ad">Hoppe Ad</string>
-    <string name="com_facebook_skip_ad_in">Hopp over annonsen i</string>
-</resources>
