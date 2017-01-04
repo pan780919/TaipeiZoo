@@ -866,6 +866,7 @@
     <string name="tagmanager_preview_dialog_button">Continue</string>
     <string name="tagmanager_preview_dialog_message">Preview mode updated.</string>
     <string name="tagmanager_preview_dialog_title">Preview</string>
+    <string name="title_activity_fire_base_list">FireBaseListActivity</string>
     <string name="title_activity_headpage">動物園好好玩</string>
     <string name="title_activity_in_app_billing">贊助開發者</string>
     <string name="title_activity_spinner">SpinnerActivity</string>

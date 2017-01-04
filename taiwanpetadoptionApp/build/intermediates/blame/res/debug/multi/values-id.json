@@ -1,0 +1,387 @@
+[
+    {
+        "outputFile": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-id\\values-id.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 77,
+                    "endOffset": 128
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 77,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 161,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 161,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 295,
+                    "endColumn": 124,
+                    "endOffset": 415
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 124,
+                        "endOffset": 337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 420,
+                    "endColumn": 113,
+                    "endOffset": 529
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 342,
+                        "endColumn": 113,
+                        "endOffset": 451
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 534,
+                    "endColumn": 98,
+                    "endOffset": 628
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 456,
+                        "endColumn": 98,
+                        "endOffset": 550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 633,
+                    "endColumn": 66,
+                    "endOffset": 695
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 555,
+                        "endColumn": 66,
+                        "endOffset": 617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 700,
+                    "endColumn": 67,
+                    "endOffset": 763
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 622,
+                        "endColumn": 67,
+                        "endOffset": 685
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 768,
+                    "endColumn": 56,
+                    "endOffset": 820
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 690,
+                        "endColumn": 56,
+                        "endOffset": 742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 825,
+                    "endColumn": 70,
+                    "endOffset": 891
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 747,
+                        "endColumn": 70,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 896,
+                    "endColumn": 70,
+                    "endOffset": 962
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 818,
+                        "endColumn": 70,
+                        "endOffset": 884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 967,
+                    "endColumn": 96,
+                    "endOffset": 1059
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 889,
+                        "endColumn": 96,
+                        "endOffset": 981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1064,
+                    "endColumn": 72,
+                    "endOffset": 1132
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 986,
+                        "endColumn": 72,
+                        "endOffset": 1054
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1137,
+                    "endColumn": 72,
+                    "endOffset": 1205
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1059,
+                        "endColumn": 72,
+                        "endOffset": 1127
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1210,
+                    "endColumn": 83,
+                    "endOffset": 1289
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1132,
+                        "endColumn": 83,
+                        "endOffset": 1211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1294,
+                    "endColumn": 102,
+                    "endOffset": 1392
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1216,
+                        "endColumn": 102,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1397,
+                    "endColumn": 63,
+                    "endOffset": 1456
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 63,
+                        "endOffset": 1378
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1461,
+                    "endColumn": 66,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1383,
+                        "endColumn": 66,
+                        "endOffset": 1445
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endColumn": 55,
+                    "endOffset": 1579
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 55,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1584,
+                    "endColumn": 65,
+                    "endOffset": 1645
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 65,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1650,
+                    "endColumn": 138,
+                    "endOffset": 1784
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\TaipeiZoo\\taiwanpetadoptionApp\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.18.0\\res\\values-id\\values-id.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1450,
+                        "endColumn": 138,
+                        "endOffset": 1584
+                    }
+                }
+            }
+        ]
+    }
+]

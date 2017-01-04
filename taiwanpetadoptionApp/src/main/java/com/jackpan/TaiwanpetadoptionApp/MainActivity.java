@@ -36,6 +36,8 @@ import com.facebook.appevents.AppEventsLogger;
 import com.facebook.applinks.AppLinkData;
 import com.facebook.share.model.AppInviteContent;
 import com.facebook.share.widget.AppInviteDialog;
+import com.firebase.client.Firebase;
+import com.firebase.client.FirebaseError;
 import com.google.android.gms.ads.InterstitialAd;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
@@ -85,8 +87,10 @@ public class MainActivity extends Activity {
 	private ArrayAdapter<String> mAdapter2= null;
 	private DatabaseReference mDatabase;
 	private Button mInviteBtn;
-	private ArrayList<TaipeiZoo> list = new ArrayList<>();
+
 	private static final String TAG = "MainActivity";
+	private ArrayList<TaipeiZoo> list = new ArrayList<>();
+
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -107,17 +111,18 @@ public class MainActivity extends Activity {
 		mInviteBtn.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				String appLinkUrl, previewImageUrl;
-				appLinkUrl = "https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo";
-				previewImageUrl = "https://lh3.googleusercontent.com/2TPsyspPyf6WOYUEjduISOrg0HZH_xqtwa0G5LJsclL-knggHE0-KdbisjutLpr7lo8=w300-rw";
-
-				if (AppInviteDialog.canShow()) {
-					AppInviteContent content = new AppInviteContent.Builder()
-							.setApplinkUrl(appLinkUrl)
-							.setPreviewImageUrl(previewImageUrl)
-							.build();
-					AppInviteDialog.show(MainActivity.this, content);
-				}
+				setFireBase();
+//				String appLinkUrl, previewImageUrl;
+//				appLinkUrl = "https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo";
+//				previewImageUrl = "https://lh3.googleusercontent.com/2TPsyspPyf6WOYUEjduISOrg0HZH_xqtwa0G5LJsclL-knggHE0-KdbisjutLpr7lo8=w300-rw";
+//
+//				if (AppInviteDialog.canShow()) {
+//					AppInviteContent content = new AppInviteContent.Builder()
+//							.setApplinkUrl(appLinkUrl)
+//							.setPreviewImageUrl(previewImageUrl)
+//							.build();
+//					AppInviteDialog.show(MainActivity.this, content);
+//				}
 			}
 		});
 
@@ -135,15 +140,15 @@ public class MainActivity extends Activity {
 						}
 					});
 		}
-		progressDialog = ProgressDialog.show(MainActivity.this, "讀取中", "目前資料量比較龐大，請耐心等候！！", false, false, new DialogInterface.OnCancelListener() {
-
-			@Override
-			public void onCancel(DialogInterface dialog) {
-				//
-				isCencel = true;
-				finish();
-			}
-		});
+//		progressDialog = ProgressDialog.show(MainActivity.this, "讀取中", "目前資料量比較龐大，請耐心等候！！", false, false, new DialogInterface.OnCancelListener() {
+//
+//			@Override
+//			public void onCancel(DialogInterface dialog) {
+//				//
+//				isCencel = true;
+//				finish();
+//			}
+//		});
 		configVersionCheck();
 		
 		boolean isbuy =MySharedPrefernces.getIsBuyed(this);
@@ -220,12 +225,12 @@ public class MainActivity extends Activity {
 		});
 
 
-		mAdapter = new MyAdapter(mAllData);
+		mAdapter = new MyAdapter(list);
 
 		petlist.setAdapter(mAdapter);
-
-		LoadNetAsyncTask loadNetAsyncTask = new LoadNetAsyncTask();
-		loadNetAsyncTask.execute(MyAdKey.jsondata);
+//
+//		LoadNetAsyncTask loadNetAsyncTask = new LoadNetAsyncTask();
+//		loadNetAsyncTask.execute(MyAdKey.jsondata);
 //		MobileAds.initialize(this, "ca-app-pub-7019441527375550~9403733429");
 //		adapterWrapper = new AdmobAdapterWrapper(this);
 //		String admobUnitId =getResources().getString(R.string.admob_unit_id);
@@ -238,6 +243,7 @@ public class MainActivity extends Activity {
 //		petlist.setAdapter(adapterWrapper);
 //		mAdapter.notifyDataSetChanged();
 //		initUpdateAdsTimer();
+
 		RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
 
 		adView = new AdView(this, "583698071813390_587400221443175", AdSize.BANNER_320_50);
@@ -303,18 +309,18 @@ public class MainActivity extends Activity {
 				@Override
 				public void onItemSelected(AdapterView<?> parent, View view, int
 						position, long id) {
-					if (position == 0) {
-						mAdapter.updateData(mAllData);
-						mSpinner2.setVisibility(View.GONE);
-					} else {
-						selectSpinner(kindStrings.get(position));
-						mSpinner2.setVisibility(View.VISIBLE);
-					}
+//					if (position == 0) {
+//						mAdapter.updateData(mAllData);
+//						mSpinner2.setVisibility(View.GONE);
+//					} else {
+//						selectSpinner(kindStrings.get(position));
+//						mSpinner2.setVisibility(View.VISIBLE);
+//					}
 				}
 
 				@Override
 				public void onNothingSelected(AdapterView<?> parent) {
-					mAdapter.updateData(mAllData);
+//					mAdapter.updateData(mAllData);
 				}
 			});
 			mSpinner2.setOnItemSelectedListener(new
@@ -336,7 +342,7 @@ public class MainActivity extends Activity {
 			});
 
 			mAllData = result;
-			mAdapter.updateData(mAllData);
+//			mAdapter.updateData(mAllData);
 
 		}
 
@@ -434,16 +440,16 @@ public class MainActivity extends Activity {
 		
 		ArrayList<ResultData> kindList = mKind.get(kinds);
 
-		mAdapter.updateData(kindList);
+//		mAdapter.updateData(kindList);
 
 	}
 	public class MyAdapter extends BaseAdapter {
-		private ArrayList<ResultData> mDatas;
-
-		public MyAdapter(ArrayList<ResultData> datas) {
+//		private ArrayList<ResultData> mDatas;
+			private ArrayList<TaipeiZoo> mDatas;
+		public MyAdapter(ArrayList<TaipeiZoo> datas) {
 			mDatas = datas;
 		}
-		public void updateData(ArrayList<ResultData> datas) {
+		public void updateData(ArrayList<TaipeiZoo> datas) {
 			mDatas = datas;
 			notifyDataSetChanged();
 		}
@@ -467,28 +473,29 @@ public class MainActivity extends Activity {
 			if (convertView == null)
 				convertView = LayoutInflater.from(MainActivity.this).inflate(
 						R.layout.mylayout, null);
-			ResultData data = mDatas.get(position);
+//			ResultData data = mDatas.get(position);
+			TaipeiZoo taipeiZoo = mDatas.get(position);
 			TextView textname = (TextView) convertView.findViewById(R.id.name);
 			TextView list = (TextView) convertView.findViewById(R.id.txtengname);
 			TextView bigtext= (TextView) convertView.findViewById(R.id.bigtext);
 			TextView place= (TextView) convertView.findViewById(R.id.palace);
 			TextView time= (TextView) convertView.findViewById(R.id.time);
-			textname.setText("館區:"+data.A_Location);
-			list.setText("中文名:"+data.A_Name_Ch);
+			textname.setText("館區:"+taipeiZoo.getName());
+			list.setText("中文名:"+taipeiZoo.getLove());
 //			bigtext.setText(data.A_Keywords);
 			bigtext.setVisibility(View.GONE);
-			place.setText("英文名:"+data.A_Name_En );
-			time.setText("地理分布:"+data.A_Distribution );
+			place.setText("英文名:"+taipeiZoo.getAge());
+//			time.setText("地理分布:"+data.A_Distribution );
 			ImageView imageView = (ImageView) convertView.findViewById(R.id.photoimg);
 			//			loadImage(data.album_file, img);
 			//			Glide.with(MainActivity.this).load(data.album_file).into(imageView);
 
-			Glide.with(MainActivity.this)
-			.load(data.A_Pic01_URL)
-			.centerCrop()
-			.placeholder(R.drawable.nophoto)
-			.crossFade()
-			.into(imageView);
+//			Glide.with(MainActivity.this)
+//			.load(data.A_Pic01_URL)
+//			.centerCrop()
+//			.placeholder(R.drawable.nophoto)
+//			.crossFade()
+//			.into(imageView);
 			return convertView;
 		}
 
@@ -628,6 +635,49 @@ public class MainActivity extends Activity {
 			}
 
 
+		});
+
+	}
+	private void setFireBase(){
+		Firebase.setAndroidContext(this);
+		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
+
+		Firebase mFirebaseRef = new Firebase(url);
+//		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
+
+		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
+			@Override
+			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
+				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
+				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
+//				TaipeiZoo taipeiZoo = new TaipeiZoo();
+                TaipeiZoo taipeiZoo = dataSnapshot.getValue(TaipeiZoo.class);
+//				taipeiZoo.setName((String)dataSnapshot.child("name").getValue());
+				list.add(taipeiZoo);
+				mAdapter.notifyDataSetChanged();
+//				progressDialog.dismiss();
+			}
+
+			@Override
+			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+
+			}
+
+			@Override
+			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
+
+			}
+
+			@Override
+			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
+
+			}
+
+			@Override
+			public void onCancelled(FirebaseError firebaseError) {
+
+			}
 		});
 
 	}
