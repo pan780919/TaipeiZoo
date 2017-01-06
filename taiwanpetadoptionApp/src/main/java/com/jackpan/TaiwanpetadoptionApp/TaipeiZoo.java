@@ -8,6 +8,7 @@ public class TaipeiZoo {
     public  String age;
     public  String name;
     public  String love;
+    public  String pic;
 
     public String getAge() {
         return age;
@@ -25,4 +26,9 @@ public class TaipeiZoo {
     public String getLove() {
         return love;
     }
+
+    public String getPic() {
+        return pic;
+    }
 }
+

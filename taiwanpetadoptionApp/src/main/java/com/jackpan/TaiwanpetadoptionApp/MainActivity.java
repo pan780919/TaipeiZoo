@@ -1,15 +1,30 @@
 package com.jackpan.TaiwanpetadoptionApp;
 
+import android.*;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.ProgressDialog;
+import android.content.ContentResolver;
+import android.content.CursorLoader;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.database.Cursor;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Matrix;
 import android.net.Uri;
 import android.os.AsyncTask;
+import android.os.Build;
 import android.os.Bundle;
+import android.os.Environment;
+import android.provider.DocumentsContract;
+import android.provider.MediaStore;
+import android.support.annotation.NonNull;
+import android.support.annotation.RequiresApi;
+import android.support.v4.app.ActivityCompat;
+import android.support.v7.widget.ThemedSpinnerAdapter;
+import android.util.DisplayMetrics;
 import android.util.Log;
 import android.view.KeyEvent;
 import android.view.LayoutInflater;
@@ -39,12 +54,17 @@ import com.facebook.share.widget.AppInviteDialog;
 import com.firebase.client.Firebase;
 import com.firebase.client.FirebaseError;
 import com.google.android.gms.ads.InterstitialAd;
+import com.google.android.gms.tasks.OnFailureListener;
+import com.google.android.gms.tasks.OnSuccessListener;
 import com.google.firebase.database.DataSnapshot;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
 import com.google.firebase.messaging.FirebaseMessaging;
+import com.google.firebase.storage.FirebaseStorage;
+import com.google.firebase.storage.StorageReference;
+import com.google.firebase.storage.UploadTask;
 import com.google.gson.Gson;
 
 import org.json.JSONArray;
@@ -52,6 +72,11 @@ import org.json.JSONException;
 import org.json.JSONObject;
 
 import java.io.BufferedReader;
+import java.io.ByteArrayOutputStream;
+import java.io.File;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
@@ -87,10 +112,17 @@ public class MainActivity extends Activity {
 	private ArrayAdapter<String> mAdapter2= null;
 	private DatabaseReference mDatabase;
 	private Button mInviteBtn;
-
+	ImageView imageView;
 	private static final String TAG = "MainActivity";
 	private ArrayList<TaipeiZoo> list = new ArrayList<>();
+	private static final int REQUEST_EXTERNAL_STORAGE = 200;
 
+	private ImageView mImg;
+	private DisplayMetrics mPhone;
+	private final static int CAMERA = 66;
+	private final static int PHOTO = 99;
+	private Bitmap bitmap;
+	private static final int PICKER = 100;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
@@ -104,14 +136,16 @@ public class MainActivity extends Activity {
 //		MyGAManager.sendScreenName(this,"搜尋頁面");
 		FacebookSdk.sdkInitialize(getApplicationContext());
 		AppEventsLogger.activateApp(this);
-
-
-
+		setFireBase();
+		mPhone = new DisplayMetrics();
+		getWindowManager().getDefaultDisplay().getMetrics(mPhone);
 		mInviteBtn = (Button)findViewById(R.id.inviteBtn);
 		mInviteBtn.setOnClickListener(new View.OnClickListener() {
 			@Override
 			public void onClick(View v) {
-				setFireBase();
+				uploadFromStream();
+//				upLoad();
+//				setFireBaseDB();
 //				String appLinkUrl, previewImageUrl;
 //				appLinkUrl = "https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo";
 //				previewImageUrl = "https://lh3.googleusercontent.com/2TPsyspPyf6WOYUEjduISOrg0HZH_xqtwa0G5LJsclL-knggHE0-KdbisjutLpr7lo8=w300-rw";
@@ -140,15 +174,15 @@ public class MainActivity extends Activity {
 						}
 					});
 		}
-//		progressDialog = ProgressDialog.show(MainActivity.this, "讀取中", "目前資料量比較龐大，請耐心等候！！", false, false, new DialogInterface.OnCancelListener() {
-//
-//			@Override
-//			public void onCancel(DialogInterface dialog) {
-//				//
-//				isCencel = true;
-//				finish();
-//			}
-//		});
+		progressDialog = ProgressDialog.show(MainActivity.this, "讀取中", "目前資料量比較龐大，請耐心等候！！", false, false, new DialogInterface.OnCancelListener() {
+
+			@Override
+			public void onCancel(DialogInterface dialog) {
+				//
+				isCencel = true;
+				finish();
+			}
+		});
 		configVersionCheck();
 		
 		boolean isbuy =MySharedPrefernces.getIsBuyed(this);
@@ -486,16 +520,16 @@ public class MainActivity extends Activity {
 			bigtext.setVisibility(View.GONE);
 			place.setText("英文名:"+taipeiZoo.getAge());
 //			time.setText("地理分布:"+data.A_Distribution );
-			ImageView imageView = (ImageView) convertView.findViewById(R.id.photoimg);
+			imageView = (ImageView) convertView.findViewById(R.id.photoimg);
 			//			loadImage(data.album_file, img);
 			//			Glide.with(MainActivity.this).load(data.album_file).into(imageView);
 
-//			Glide.with(MainActivity.this)
-//			.load(data.A_Pic01_URL)
-//			.centerCrop()
-//			.placeholder(R.drawable.nophoto)
-//			.crossFade()
-//			.into(imageView);
+			Glide.with(MainActivity.this)
+			.load(taipeiZoo.getPic())
+			.centerCrop()
+			.placeholder(R.drawable.nophoto)
+			.crossFade()
+			.into(imageView);
 			return convertView;
 		}
 
@@ -656,7 +690,7 @@ public class MainActivity extends Activity {
 //				taipeiZoo.setName((String)dataSnapshot.child("name").getValue());
 				list.add(taipeiZoo);
 				mAdapter.notifyDataSetChanged();
-//				progressDialog.dismiss();
+				progressDialog.dismiss();
 			}
 
 			@Override
@@ -681,4 +715,264 @@ public class MainActivity extends Activity {
 		});
 
 	}
+	private void  setFireBaseDB(){
+		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
+		Firebase mFirebaseRef = new Firebase(url);
+//		Firebase userRef = mFirebaseRef.child("user");
+//		Map newUserData = new HashMap();
+//		newUserData.put("age", 30);
+//		newUserData.put("city", "Provo, UT");
+		Firebase newPostRef = mFirebaseRef.child("posts").push();
+		String newPostKey = newPostRef.getKey();
+		Log.d(TAG, "setFireBaseDB: "+newPostKey);
+		Map newPost = new HashMap();
+		newPost.put("name", "hello");
+		newPost.put("age", 21);
+		Map updatedUserData = new HashMap();
+//		updatedUserData.put("3/posts/" + newPostKey, true);
+		updatedUserData.put(newPostKey , newPost);
+		mFirebaseRef.updateChildren(updatedUserData, new Firebase.CompletionListener() {
+			@Override
+			public void onComplete(FirebaseError firebaseError, Firebase firebase) {
+				if (firebaseError != null) {
+					Log.d(TAG, "onComplete: "+"Error updating data: " + firebaseError.getMessage());
+				}
+			}
+		});
+	}
+	private void uploadFromStream() {
+		READEXTERNALSTORAGE();
+//		savePicture(bitmap);
+//				sharePicWithUri(uri);
+
+	}
+	private  void upLoad(){
+
+//				sharePicWithUri(uri);
+
+		FirebaseStorage storage = FirebaseStorage.getInstance();
+		StorageReference storageRef = storage.getReferenceFromUrl("gs://sevenpeoplebook.appspot.com");
+		StorageReference mountainsRef = storageRef.child("file.jpg");
+		// Get the data from an ImageView as bytes
+		imageView.setDrawingCacheEnabled(true);
+		imageView.buildDrawingCache();
+		Bitmap bitmap = imageView.getDrawingCache();
+		ByteArrayOutputStream baos = new ByteArrayOutputStream();
+		bitmap.compress(Bitmap.CompressFormat.JPEG, 100, baos);
+		byte[] data = baos.toByteArray();
+
+		UploadTask uploadTask = mountainsRef.putBytes(data);
+		uploadTask.addOnFailureListener(new OnFailureListener() {
+			@Override
+			public void onFailure(@NonNull Exception exception) {
+				// Handle unsuccessful uploads
+			}
+		}).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+			@Override
+			public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+				// taskSnapshot.getMetadata() contains file metadata such as size, content-type, and download URL.
+				Uri downloadUrl = taskSnapshot.getDownloadUrl();
+			}
+		});
+	}
+	private void READEXTERNALSTORAGE() {
+		int permission = ActivityCompat.checkSelfPermission(this,
+				android.Manifest.permission.READ_EXTERNAL_STORAGE);
+		if (permission != PackageManager.PERMISSION_GRANTED) {
+			//未取得權限，向使用者要求允許權限
+
+			if (ActivityCompat.shouldShowRequestPermissionRationale(MainActivity.this,
+					android.Manifest.permission.CAMERA)) {
+				new android.support.v7.app.AlertDialog.Builder(MainActivity.this)
+						.setMessage("我真的沒有要做壞事, 給我權限吧?")
+						.setPositiveButton("OK", new DialogInterface.OnClickListener() {
+							@Override
+							public void onClick(DialogInterface dialog, int which) {
+								ActivityCompat.requestPermissions(MainActivity.this,
+										new String[]{android.Manifest.permission.CAMERA},
+										REQUEST_EXTERNAL_STORAGE);
+							}
+						})
+						.setNegativeButton("No", new DialogInterface.OnClickListener() {
+							@Override
+							public void onClick(DialogInterface dialog, int which) {
+								finish();
+							}
+						})
+						.show();
+			} else {
+				ActivityCompat.requestPermissions(this,
+						new String[]{android.Manifest.permission.READ_EXTERNAL_STORAGE},
+						REQUEST_EXTERNAL_STORAGE
+
+				);
+			}
+
+		} else {
+			//開啟相簿相片集，須由startActivityForResult且帶入requestCode進行呼叫，原因
+			//為點選相片後返回程式呼叫onActivityResult
+			Intent intent = new Intent();
+			intent.setType("image/*");
+			intent.setAction(Intent.ACTION_GET_CONTENT);
+			startActivityForResult(intent, PHOTO);
+
+
+		}
+	}
+	@Override
+	public void onRequestPermissionsResult(int requestCode, String permissions[], int[] grantResults) {
+		switch (requestCode) {
+			case REQUEST_EXTERNAL_STORAGE: {
+				// If request is cancelled, the result arrays are empty.
+				if (grantResults.length > 0
+						&& grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+					// permission was granted, yay! Do the
+					// contacts-related task you need to do.
+
+				} else {
+					finish();
+					// permission denied, boo! Disable the
+					// functionality that depends on this permission.
+				}
+				return;
+			}
+
+			// other 'case' lines to check for other
+			// permissions this app might request
+		}
+	}
+	//拍照完畢或選取圖片後呼叫此函式
+	@RequiresApi(api = Build.VERSION_CODES.KITKAT)
+	@Override
+	protected void onActivityResult(int requestCode, int resultCode, Intent data) {
+		if (requestCode == PICKER) {
+			if (resultCode == Activity.RESULT_OK) {
+
+
+			}
+		}
+		//藉由requestCode判斷是否為開啟相機或開啟相簿而呼叫的，且data不為null
+		if ((requestCode == CAMERA || requestCode == PHOTO) && data != null) {
+			//取得照片路徑uri
+			Uri datauri = data.getData();
+			Log.d(TAG, "onActivityResult: "+datauri);
+			Log.d(TAG, "onActivityResult: "+datauri.toString());
+			Log.d(TAG, "onActivityResult: "+datauri.getPath());
+			String wholeID = DocumentsContract.getDocumentId(datauri);
+
+// Split at colon, use second item in the array
+			String id = wholeID.split(":")[1];
+
+			String[] column = { MediaStore.Images.Media.DATA };
+
+// where id is equal to
+			String sel = MediaStore.Images.Media._ID + "=?";
+
+			Cursor cursor = getContentResolver().
+					query(MediaStore.Images.Media.EXTERNAL_CONTENT_URI,
+							column, sel, new String[]{ id }, null);
+
+			String filePath = "";
+
+			int columnIndex = cursor.getColumnIndex(column[0]);
+
+			if (cursor.moveToFirst()) {
+				filePath = cursor.getString(columnIndex);
+				Log.d(TAG, "onActivityResult: "+filePath);
+
+			}
+
+			cursor.close();
+//			sharePicWithUri(uri);
+//			if (true) return;
+//			String uri = data.getData()+"";
+//			ContentResolver cr = this.getContentResolver();
+//			String uri = "sdcard/req_images/temp.jpg";
+			FirebaseStorage storage = FirebaseStorage.getInstance();
+			StorageReference storageRef = storage.getReferenceFromUrl("gs://sevenpeoplebook.appspot.com");
+
+			StorageReference mountainsRef = storageRef.child(filePath);
+
+			InputStream stream = null;
+			try {
+				stream = new FileInputStream(new File(filePath));
+			} catch (FileNotFoundException e) {
+				e.printStackTrace();
+			}
+			UploadTask	mUploadTask = mountainsRef.putStream(stream);
+			mUploadTask.addOnFailureListener(new OnFailureListener() {
+				@Override
+				public void onFailure(@NonNull Exception exception) {
+					Log.d(TAG, "onFailure: "+"onFailure: ");
+				}
+			}).addOnSuccessListener(new OnSuccessListener<UploadTask.TaskSnapshot>() {
+				@Override
+				public void onSuccess(UploadTask.TaskSnapshot taskSnapshot) {
+					Log.d(TAG, "onSuccess: "+"onSuccess: ");
+					Log.d(TAG, "onSuccess: "+taskSnapshot.getUploadSessionUri());
+					Log.d(TAG, "onSuccess: "+taskSnapshot.getDownloadUrl());
+
+				}
+			});
+////			try {
+////				//讀取照片，型態為Bitmap
+////				bitmap = BitmapFactory.decodeStream(cr.openInputStream(uri));
+////				//判斷照片為橫向或者為直向，並進入ScalePic判斷圖片是否要進行縮放
+////				if (bitmap.getWidth() > bitmap.getHeight()) ScalePic(bitmap,
+////						mPhone.heightPixels);
+////				else ScalePic(bitmap, mPhone.widthPixels);
+////			} catch (FileNotFoundException e) {
+////			}
+
+		}
+
+		super.onActivityResult(requestCode, resultCode, data);
+	}
+
+
+	//縮放照片
+	private void ScalePic(Bitmap bitmap, int phone) {
+		//縮放比例預設為1
+		float mScale = 1;
+
+		//如果圖片寬度大於手機寬度則進行縮放，否則直接將圖片放入ImageView內
+		if (bitmap.getWidth() > phone) {
+			//判斷縮放比例
+			mScale = (float) phone / (float) bitmap.getWidth();
+
+			Matrix mMat = new Matrix();
+			mMat.setScale(mScale, mScale);
+
+			Bitmap mScaleBitmap = Bitmap.createBitmap(bitmap,
+					0,
+					0,
+					bitmap.getWidth(),
+					bitmap.getHeight(),
+					mMat,
+					false);
+//			mImg.setImageBitmap(mScaleBitmap);
+		}
+//		else mImg.setImageBitmap(bitmap);
+	}
+
+	//儲存圖片
+	public Uri savePicture(Bitmap bitmap) {
+		String root = Environment.getExternalStorageDirectory().toString();
+		File myDir = new File(root + "/req_images");
+		myDir.mkdirs();
+		String fname = "temp.jpg";
+		File file = new File(myDir, fname);
+		if (file.exists()) file.delete();
+
+		try {
+			FileOutputStream out = new FileOutputStream(file);
+			bitmap.compress(Bitmap.CompressFormat.JPEG, 90, out);
+			out.flush();
+			out.close();
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		return Uri.fromFile(file);
+	}
+
 }

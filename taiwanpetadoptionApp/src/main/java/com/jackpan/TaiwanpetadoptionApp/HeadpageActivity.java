@@ -173,66 +173,9 @@ public class HeadpageActivity extends Activity implements
 		GetButtonView();
 		setButtonEvent();
 		buildGoogleApiClient();
-		Firebase.setAndroidContext(this);
-		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
 
-		Firebase mFirebaseRef = new Firebase(url);
-//		if(Firebase.getDefaultConfig().isPersistenceEnabled()==false)mFirebaseRef.getDefaultConfig().setPersistenceEnabled(true);
 
-		mFirebaseRef.addChildEventListener(new com.firebase.client.ChildEventListener() {
-			@Override
-			public void onChildAdded(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-//				Log.d(TAG, "onChildAdded: "+dataSnapshot.getValue().toString());
-//				Log.d(TAG, "onChildAdded: "+ (String) dataSnapshot.child("name").getValue());
-//				Log.d(TAG, "onChildAdded: "+ (Long) dataSnapshot.child("age").getValue());
-				TaipeiZoo taipeiZoo = dataSnapshot.getValue(TaipeiZoo.class);
 
-				list.add(taipeiZoo);
-
-			}
-
-			@Override
-			public void onChildChanged(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-
-			}
-
-			@Override
-			public void onChildRemoved(com.firebase.client.DataSnapshot dataSnapshot) {
-
-			}
-
-			@Override
-			public void onChildMoved(com.firebase.client.DataSnapshot dataSnapshot, String s) {
-
-			}
-
-			@Override
-			public void onCancelled(FirebaseError firebaseError) {
-
-			}
-		});
-		for (TaipeiZoo taipeiZoo : list) {
-			Log.d(TAG, "onCreate: "+taipeiZoo.getName());
-			Log.d(TAG, "onCreate: "+taipeiZoo.getAge());
-			Log.d(TAG, "onCreate: "+taipeiZoo.getLove());
-		}
-//		Firebase newPostRef = mFirebaseRef.child("posts").push();
-////		String newPostKey = newPostRef.getKey();
-//		Map newPost = new HashMap();
-//		newPost.put("name", "hello");
-//		newPost.put("age", 21);
-//		Map updatedUserData = new HashMap();
-////		updatedUserData.put("3/posts/" + newPostKey, true);
-//		updatedUserData.put("2/" , newPost);
-//		// Do a deep-path update
-//		mFirebaseRef.updateChildren(updatedUserData, new Firebase.CompletionListener() {
-//			@Override
-//			public void onComplete(FirebaseError firebaseError, Firebase firebase) {
-//				if (firebaseError != null) {
-//					Log.d(TAG, "onComplete: "+"Error updating data: " + firebaseError.getMessage());
-//				}
-//			}
-//		});
 	}
 
 	@Override

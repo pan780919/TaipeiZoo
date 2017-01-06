@@ -146,47 +146,47 @@ public class TwoActivity extends Activity {
 
 	private void loadIntent() {
 		String json = getIntent().getStringExtra("json");
-		final ResultData data = new Gson().fromJson(json, ResultData.class);
-		loadImage(data.A_Pic01_URL, img);
-		textview.setText("中文名:"+data.A_Name_Ch);
-		textview2.setText("摘要說明:"+data.A_Summary);
-		textview3.setText("別名:"+data.A_AlsoKnown);
-		textview4.setText("關鍵字:"+data.A_Keywords);
-		textview5.setText("英文名:"+data.A_Name_En);
-		textview6.setText("學名:"+data.A_Name_Latin);
-		textview7.setText("分類學_門:"+data.A_Phylum);
-		textview8.setText("分類學_綱:"+data.A_Class);
-		textview9.setText("分類學_目:"+data.A_Order);
-		textview10.setText("分類學_科:"+data.A_Family);
-		textview11.setText("保育等級:"+data.A_Conservation);
-		textview12.setText("地理分布:"+data.A_Distribution);
-		textview13.setText("棲地型態:"+data.A_Habitat);
-		textview14.setText("解說:"+data.A_Interpretation);
-		textview15.setText("棲地型態:"+data.A_Habitat );
-		textview17.setText("形態特徵:"+data.A_Feature );
-		textview19.setText("生態習性:"+data.A_Behavior);
-		textview21.setText("食性:"+data.A_Diet);
-		loadImage(data.A_Pic02_URL, img2);
-		textview16.setText(data.A_Pic02_ALT);
-		loadImage(data.A_Pic03_URL, img3);
-		textview18.setText(data.A_Pic03_ALT);
-		loadImage(data.A_Pic04_URL, img4);
-		textview20.setText(data.A_Pic04_ALT);
-		mShareBtn.setOnClickListener(new View.OnClickListener() {
-			@Override
-			public void onClick(View v) {
-				if (ShareDialog.canShow(ShareLinkContent.class)) {
-					ShareLinkContent linkContent = new ShareLinkContent.Builder()
-							.setContentTitle("我只推薦好APP")
-							.setContentDescription("動物園好好玩")
-							.setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo"))
-							.setImageUrl(Uri.parse(data.A_Pic01_URL))
-							.build();
-					shareDialog.show(linkContent);
-				}
-//				MyApi.copyToClipboard(getApplication(),"類型:"+data.animal_kind+"\n"+"性別:"+data.animal_sex+"\n"+"年紀:"+data.animal_age+"\n"+"收容所名稱:"+data.shelter_name+"\n"+"開放認養時間(起):"+data.animal_opendate+"開放認養時間(迄):"+data.animal_closeddate+"\n"+"資料備註:"+data.animal_remark);
-			}
-		});
+		final TaipeiZoo data = new Gson().fromJson(json, TaipeiZoo.class);
+		loadImage(data.getPic(), img);
+		textview.setText("中文名:"+data.getName());
+		textview2.setText("摘要說明:"+data.getAge());
+		textview3.setText("別名:"+data.getLove());
+//		textview4.setText("關鍵字:"+data.A_Keywords);
+//		textview5.setText("英文名:"+data.A_Name_En);
+//		textview6.setText("學名:"+data.A_Name_Latin);
+//		textview7.setText("分類學_門:"+data.A_Phylum);
+//		textview8.setText("分類學_綱:"+data.A_Class);
+//		textview9.setText("分類學_目:"+data.A_Order);
+//		textview10.setText("分類學_科:"+data.A_Family);
+//		textview11.setText("保育等級:"+data.A_Conservation);
+//		textview12.setText("地理分布:"+data.A_Distribution);
+//		textview13.setText("棲地型態:"+data.A_Habitat);
+//		textview14.setText("解說:"+data.A_Interpretation);
+//		textview15.setText("棲地型態:"+data.A_Habitat );
+//		textview17.setText("形態特徵:"+data.A_Feature );
+//		textview19.setText("生態習性:"+data.A_Behavior);
+//		textview21.setText("食性:"+data.A_Diet);
+//		loadImage(data.A_Pic02_URL, img2);
+//		textview16.setText(data.A_Pic02_ALT);
+//		loadImage(data.A_Pic03_URL, img3);
+//		textview18.setText(data.A_Pic03_ALT);
+//		loadImage(data.A_Pic04_URL, img4);
+//		textview20.setText(data.A_Pic04_ALT);
+//		mShareBtn.setOnClickListener(new View.OnClickListener() {
+//			@Override
+//			public void onClick(View v) {
+//				if (ShareDialog.canShow(ShareLinkContent.class)) {
+//					ShareLinkContent linkContent = new ShareLinkContent.Builder()
+//							.setContentTitle("我只推薦好APP")
+//							.setContentDescription("動物園好好玩")
+//							.setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jackpan.TaipeiZoo"))
+//							.setImageUrl(Uri.parse(data.A_Pic01_URL))
+//							.build();
+//					shareDialog.show(linkContent);
+//				}
+////				MyApi.copyToClipboard(getApplication(),"類型:"+data.animal_kind+"\n"+"性別:"+data.animal_sex+"\n"+"年紀:"+data.animal_age+"\n"+"收容所名稱:"+data.shelter_name+"\n"+"開放認養時間(起):"+data.animal_opendate+"開放認養時間(迄):"+data.animal_closeddate+"\n"+"資料備註:"+data.animal_remark);
+//			}
+//		});
 	}
 
 	@Override

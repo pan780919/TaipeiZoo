@@ -100,6 +100,10 @@ MERGED from [com.android.support:support-compat:25.0.0] C:\Users\HYXEN20141227\D
 		ADDED from C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\src\main\AndroidManifest.xml:9:9-34
 		INJECTED from C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\src\main\AndroidManifest.xml
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\src\main\AndroidManifest.xml:12:5-64
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\src\main\AndroidManifest.xml:12:22-62
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\src\main\AndroidManifest.xml:13:5-67
 MERGED from [com.adlocus:library:3.5.2] C:\Users\HYXEN20141227\Documents\TaipeiZoo\taiwanpetadoptionApp\build\intermediates\exploded-aar\com.adlocus\library\3.5.2\AndroidManifest.xml:11:5-67

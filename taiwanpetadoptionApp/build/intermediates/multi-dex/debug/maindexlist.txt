@@ -28,6 +28,7 @@ android/support/v4/media/MediaBrowserCompat$Subscription.class
 com/google/android/gms/internal/zzfd.class
 com/google/android/gms/internal/zzpx$zzc.class
 com/google/android/gms/analytics/HitBuilders$ItemBuilder.class
+com/google/firebase/storage/UploadTask.class
 com/google/android/gms/cast/framework/SessionManager.class
 android/support/v4/net/ConnectivityManagerCompat$JellyBeanConnectivityManagerCompatImpl.class
 com/google/android/gms/internal/zzhj.class
@@ -124,6 +125,7 @@ com/google/ads/mediation/MediationBannerAdapter.class
 com/google/android/gms/internal/zzdw.class
 com/google/android/gms/ads/internal/request/AdRequestInfoParcel.class
 com/google/android/gms/ads/internal/client/zzb.class
+com/google/firebase/storage/FirebaseStorage.class
 android/support/v4/view/AccessibilityDelegateCompat.class
 android/support/annotation/StringRes.class
 com/google/android/gms/internal/zzpx.class
@@ -184,6 +186,7 @@ com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$2.class
 com/google/ads/mediation/EmptyNetworkExtras.class
 com/google/android/gms/analytics/internal/zzak.class
 android/support/v7/widget/RecyclerView$5.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$14.class
 com/google/android/gms/internal/zzfn.class
 android/support/v7/widget/ActionMenuView$LayoutParams.class
 com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$5.class
@@ -204,6 +207,7 @@ com/fasterxml/jackson/annotation/JsonAnySetter.class
 com/google/firebase/messaging/SendException.class
 com/google/android/gms/internal/zzgk.class
 com/google/firebase/database/DatabaseReference.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$12.class
 android/support/v4/app/ServiceCompat.class
 com/google/android/gms/tasks/Task.class
 com/fasterxml/jackson/databind/ser/impl/IteratorSerializer.class
@@ -256,7 +260,6 @@ com/fasterxml/jackson/annotation/JsonAutoDetect$1.class
 com/google/android/gms/internal/zzkm.class
 com/google/android/gms/ads/internal/cache/zzg.class
 com/adlocus/a.class
-com/jackpan/TaiwanpetadoptionApp/TwoActivity$4.class
 com/adlocus/h.class
 com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$IntKD.class
 android/support/v7/view/menu/MenuAdapter.class
@@ -293,8 +296,8 @@ com/adlocus/push/a$a.class
 android/support/v4/app/NoSaveStateFrameLayout.class
 com/google/android/gms/internal/zzis.class
 com/google/android/gms/fitness/data/Goal$ObjectiveType.class
-com/google/android/gms/common/GoogleApiAvailability.class
 com/bumptech/glide/RequestManager.class
+com/google/android/gms/common/GoogleApiAvailability.class
 com/fasterxml/jackson/annotation/JsonFormat$Value.class
 android/support/v7/app/ActionBar$NavigationMode.class
 c/CordovaWebView.class
@@ -331,6 +334,7 @@ com/fasterxml/jackson/databind/annotation/JacksonStdImpl.class
 com/adlocus/util/MultiProcessPreferences$b.class
 android/support/annotation/XmlRes.class
 com/google/android/gms/ads/internal/overlay/zzd$zza.class
+com/google/firebase/storage/StorageReference.class
 com/google/android/gms/internal/zzlx.class
 com/google/android/gms/ads/internal/client/zzad.class
 com/fasterxml/jackson/databind/deser/std/StdKeyDeserializer$BoolKD.class
@@ -449,6 +453,7 @@ vpadn/aF$b.class
 android/support/v7/recyclerview/R$styleable.class
 com/adlocus/push/q.class
 com/google/android/gms/internal/zzkl.class
+com/bumptech/glide/request/target/Target.class
 android/support/v4/util/SparseArrayCompat.class
 com/google/android/gms/common/util/DynamiteApi.class
 com/google/android/gms/internal/zzlj.class
@@ -547,6 +552,7 @@ com/fasterxml/jackson/annotation/JsonIgnoreProperties.class
 com/google/android/gms/wearable/DataApi.class
 com/util/IabResult.class
 android/support/v7/app/AppCompatDelegateImplV9.class
+com/google/firebase/storage/CancellableTask.class
 com/google/android/gms/wallet/fragment/zzc.class
 com/google/android/gms/measurement/AppMeasurement.class
 com/fasterxml/jackson/databind/deser/std/NumberDeserializers$BigDecimalDeserializer.class
@@ -563,6 +569,7 @@ com/google/android/gms/internal/zzku.class
 com/adlocus/util/g.class
 com/jackpan/TaiwanpetadoptionApp/InAppBillingActivity$4.class
 com/facebook/FacebookSdk.class
+com/google/android/gms/tasks/OnFailureListener.class
 com/google/android/gms/auth/api/credentials/CredentialPickerConfig$Prompt.class
 android/support/v7/widget/RecyclerView$ItemAnimator$AdapterChanges.class
 c/CordovaWebView$1.class
@@ -627,7 +634,6 @@ com/bumptech/glide/load/resource/bitmap/TransformationUtils.class
 android/support/v4/media/session/PlaybackStateCompatApi21.class
 com/google/android/gms/internal/zzel.class
 android/support/v4/media/MediaBrowserCompat$MediaItem.class
-com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$8$1.class
 android/support/v7/view/menu/SubMenuBuilder.class
 android/support/v4/view/ViewCompat$ScrollIndicators.class
 android/support/v4/media/session/PlaybackStateCompat$1.class
@@ -823,6 +829,7 @@ com/google/android/gms/wearable/MessageApi$FilterType.class
 com/google/android/gms/ads/internal/reward/client/zze.class
 android/support/v4/view/MenuCompat.class
 com/google/gson/JsonNull.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$9.class
 com/google/android/gms/common/internal/zzk$zza.class
 android/support/annotation/IdRes.class
 com/google/android/gms/internal/zzir.class
@@ -908,6 +915,7 @@ com/fasterxml/jackson/annotation/JsonTypeName.class
 com/facebook/share/widget/JoinAppGroupDialog.class
 android/support/annotation/RequiresPermission$Read.class
 com/jackpan/TaiwanpetadoptionApp/InAppBillingActivity$2.class
+com/bumptech/glide/BitmapOptions.class
 com/google/firebase/appindexing/FirebaseAppIndexingException.class
 com/google/android/gms/ads/internal/purchase/zzb.class
 com/google/android/gms/analytics/GoogleAnalytics.class
@@ -970,6 +978,7 @@ android/support/v4/view/ViewCompatJellybeanMr2.class
 com/google/android/gms/nearby/messages/Messages.class
 com/google/android/gms/internal/zzdv.class
 com/fasterxml/jackson/databind/ser/impl/StringArraySerializer.class
+com/google/android/gms/tasks/OnSuccessListener.class
 com/fasterxml/jackson/databind/deser/std/PrimitiveArrayDeserializers$FloatDeser.class
 android/support/v4/media/session/MediaSessionCompat$Callback.class
 com/google/android/gms/internal/zzdb.class
@@ -1014,6 +1023,7 @@ com/google/android/gms/auth/zze.class
 com/google/android/gms/internal/zzlm.class
 com/fasterxml/jackson/databind/jsonFormatVisitors/JsonFormatVisitorWithSerializerProvider.class
 com/jackpan/TaiwanpetadoptionApp/MainActivity$4.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$13.class
 android/support/v4/util/MapCollections.class
 com/google/android/gms/internal/zzpx$zzb.class
 com/google/android/gms/ads/internal/client/zzc.class
@@ -1092,8 +1102,8 @@ com/google/android/gms/ads/internal/client/zzf.class
 com/google/android/gms/internal/zzds.class
 com/google/android/gms/maps/GoogleMap$OnCameraChangeListener.class
 com/util/Security.class
-com/google/android/gms/common/api/GoogleApiClient$Builder.class
 android/support/v7/app/AlertDialog$Builder.class
+com/google/android/gms/common/api/GoogleApiClient$Builder.class
 vpadn/t.class
 android/support/v4/media/session/PlaybackStateCompat$Actions.class
 com/google/android/gms/internal/zzfh.class
@@ -1109,6 +1119,7 @@ android/support/v4/app/LoaderManager$LoaderCallbacks.class
 com/google/android/gms/fitness/data/Goal$FrequencyObjective.class
 com/google/android/gms/contextmanager/fence/internal/FenceStateImpl.class
 com/jackpan/TaiwanpetadoptionApp/TwoActivity$2.class
+com/google/firebase/storage/ControllableTask.class
 com/google/android/gms/common/internal/safeparcel/AbstractSafeParcelable.class
 android/support/v4/view/ViewCompatJB.class
 com/google/android/gms/cast/framework/media/MediaIntentReceiver.class
@@ -1167,7 +1178,6 @@ com/facebook/share/model/ShareContent.class
 com/google/android/gms/internal/zzgt.class
 com/adlocus/util/MultiProcessPreferences$a.class
 android/support/v4/widget/SearchViewCompat$OnQueryTextListenerCompat.class
-com/jackpan/TaiwanpetadoptionApp/ResultData.class
 com/vpadn/widget/VpadnActivity$11.class
 com/google/android/gms/measurement/internal/zzu$zza.class
 com/google/android/gms/ads/internal/request/zzd$zzb.class
@@ -1206,6 +1216,7 @@ android/support/v7/widget/RecyclerView$SavedState.class
 com/google/android/gms/ads/internal/zzv.class
 com/fasterxml/jackson/databind/ser/std/ToStringSerializer.class
 com/fasterxml/jackson/annotation/JsonTypeInfo$Id.class
+com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$7$1.class
 android/support/v4/app/FragmentManagerImpl$FragmentTag.class
 com/google/android/gms/internal/zzgv.class
 com/google/android/gms/internal/zzdn.class
@@ -1250,6 +1261,7 @@ com/fasterxml/jackson/databind/AnnotationIntrospector$Pair.class
 com/google/android/gms/analytics/AnalyticsReceiver.class
 com/google/android/gms/gcm/PeriodicTask.class
 com/google/android/gms/ads/internal/purchase/zze.class
+com/bumptech/glide/DownloadOptions.class
 com/jackpan/TaiwanpetadoptionApp/FireBaseListActivity$NewsAdapter.class
 com/google/android/gms/internal/zzfz.class
 com/util/SkuDetails.class
@@ -1257,6 +1269,7 @@ com/google/firebase/FirebaseException.class
 android/support/v4/util/DebugUtils.class
 android/support/v4/view/ViewPager$4.class
 com/google/android/gms/internal/zzjd.class
+android/support/v7/app/AlertDialog.class
 com/google/android/gms/ads/internal/overlay/zzw.class
 com/fasterxml/jackson/databind/annotation/JsonSerialize$Typing.class
 com/facebook/CustomTabMainActivity.class
@@ -1294,6 +1307,7 @@ com/bumptech/glide/load/model/GenericLoaderFactory.class
 com/fasterxml/jackson/databind/KeyDeserializer.class
 com/fasterxml/jackson/databind/ser/std/StdArraySerializers$DoubleArraySerializer.class
 com/google/android/gms/location/places/NearbyAlertRequest.class
+com/google/firebase/storage/StorageTask.class
 com/google/android/gms/internal/zzgs.class
 com/google/android/gms/internal/zzjn.class
 vpadn/w.class
@@ -1322,6 +1336,7 @@ com/adlocus/util/MultiProcessPreferences.class
 android/support/v7/view/menu/CascadingMenuPopup$HorizPosition.class
 android/support/v4/view/ViewPager$SavedState.class
 com/google/android/gms/internal/zzfl.class
+com/firebase/client/Firebase$CompletionListener.class
 com/adlocus/InterstitialAdListener.class
 android/support/v7/widget/RecyclerView$RecycledViewPool.class
 com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$3.class
@@ -1340,8 +1355,8 @@ android/support/annotation/AnyThread.class
 com/google/android/gms/internal/zzjr.class
 com/google/android/gms/gcm/OneoffTask.class
 com/google/android/gms/games/social/Social$InviteUpdateResult.class
-com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$9.class
 com/facebook/appevents/AppEventsLogger.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$10.class
 com/fasterxml/jackson/databind/deser/std/ObjectArrayDeserializer.class
 com/fasterxml/jackson/databind/deser/impl/CreatorCollector.class
 com/jackpan/TaiwanpetadoptionApp/MainActivity$6.class
@@ -1359,6 +1374,7 @@ com/google/android/gms/internal/zzmc.class
 com/fasterxml/jackson/databind/jsontype/TypeDeserializer.class
 com/google/android/gms/internal/zzqo$zzb.class
 android/support/v7/widget/AdapterHelper$Callback.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$16.class
 com/google/android/gms/internal/zzjx.class
 com/google/firebase/database/ThrowOnExtraProperties.class
 com/google/android/gms/common/api/Api$ApiOptions$NotRequiredOptions.class
@@ -1374,6 +1390,7 @@ com/fasterxml/jackson/databind/ser/std/NumberSerializers$DoubleSerializer.class
 com/google/android/gms/internal/zzch.class
 com/bumptech/glide/BitmapRequestBuilder.class
 com/jackpan/TaiwanpetadoptionApp/MainActivity$2.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$15.class
 com/google/android/gms/fitness/Fitness.class
 android/support/v7/graphics/drawable/DrawerArrowDrawable$ArrowDirection.class
 com/google/android/gms/nearby/messages/Strategy.class
@@ -1382,6 +1399,8 @@ com/google/android/gms/ads/internal/zzd.class
 com/google/android/gms/games/Players$LoadPlayersResult.class
 com/google/android/gms/internal/zzjs.class
 com/google/android/gms/internal/zzmd.class
+com/bumptech/glide/DrawableTypeRequest.class
+com/jackpan/TaiwanpetadoptionApp/MainActivity$11.class
 com/google/firebase/messaging/FirebaseMessagingService.class
 com/google/android/gms/internal/zzmh.class
 com/google/android/gms/dynamic/zzg$zza.class
@@ -1436,6 +1455,7 @@ com/jackpan/TaiwanpetadoptionApp/R$menu.class
 c/CordovaWebView$b.class
 com/fasterxml/jackson/databind/introspect/AnnotationIntrospectorPair.class
 com/fasterxml/jackson/databind/deser/std/StringDeserializer.class
+android/support/v7/app/AppCompatDialog.class
 com/google/android/gms/ads/internal/purchase/zzi.class
 com/google/android/gms/location/places/internal/PlaceEntity.class
 android/support/v7/widget/StaggeredGridLayoutManager.class
@@ -1604,6 +1624,7 @@ com/google/android/gms/fitness/data/Goal$MetricObjective.class
 com/util/Inventory.class
 android/support/v7/app/ActionBar$DisplayOptions.class
 com/google/android/gms/awareness/state/Weather$TemperatureUnit.class
+com/bumptech/glide/manager/LifecycleListener.class
 com/google/firebase/iid/zzg.class
 android/support/v4/view/accessibility/AccessibilityNodeInfoCompat.class
 com/jackpan/TaiwanpetadoptionApp/MyGAManager.class
