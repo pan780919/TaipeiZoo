@@ -11,11 +11,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="960c2045-e5e7-404d-85a8-5d82d822ac59" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$8$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$9.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$6$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity$3$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity$4.class" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/taskArtifacts/fileSnapshots.bin" />
@@ -24,47 +19,20 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_taiwanpetadoptionApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_taiwanpetadoptionApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_taiwanpetadoptionApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_taiwanpetadoptionApp_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_taiwanpetadoptionApp_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/2.14.1/tasks/_taiwanpetadoptionApp_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$7.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$8.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$1.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$2.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$3.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$4.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$5.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$6.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$7$1.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$7$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$7.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$7.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$8.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$8.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask$1.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask$2.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask$3.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$LoadNetAsyncTask.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$MyAdapter.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$MyAdapter.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$User.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$User.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$10.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$10.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$11.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$11.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$12.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$12.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$13.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$13.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$14.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$14.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$15.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$15.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$16.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity$16.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TaipeiZoo.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TaipeiZoo.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity$2.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity$3.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity.class" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/classes/debug/com/jackpan/TaiwanpetadoptionApp/TwoActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/incremental/packageDebug/zip-cache/4KAjx7c+IH7LVnZN8tbhDyAWioA=" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/incremental/packageDebug/zip-cache/4KAjx7c+IH7LVnZN8tbhDyAWioA=" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/multi-dex/debug/componentClasses.jar" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/multi-dex/debug/componentClasses.jar" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes2.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/outputs/apk/taiwanpetadoptionApp-debug.apk" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/outputs/apk/taiwanpetadoptionApp-debug.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/multi-dex/debug/maindexlist.txt" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/multi-dex/debug/maindexlist.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.java" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/HeadpageActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/MainActivity.java" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/MainActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/TaipeiZoo.java" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/TaipeiZoo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/TwoActivity.java" afterPath="$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/TwoActivity.java" />
     </list>
     <ignored path="TaipeiZoo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -183,8 +151,8 @@
       <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17026">
-              <caret line="897" column="62" selection-start-line="897" selection-start-column="62" selection-end-line="897" selection-end-column="62" />
+            <state relative-caret-position="627">
+              <caret line="914" column="74" selection-start-line="914" selection-start-column="74" selection-end-line="914" selection-end-column="74" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3467#3479#0" expanded="true" />
@@ -196,18 +164,18 @@
                 <element signature="e#9049#9050#0" expanded="true" />
                 <element signature="e#15619#15620#0" expanded="true" />
                 <element signature="e#15642#15643#0" expanded="true" />
-                <element signature="e#22055#22313#0" expanded="true" />
-                <element signature="e#22312#22313#0" expanded="true" />
-                <element signature="e#23122#23261#0" expanded="true" />
-                <element signature="e#23260#23261#0" expanded="true" />
-                <element signature="e#23284#23577#0" expanded="true" />
-                <element signature="e#23576#23577#0" expanded="true" />
-                <element signature="e#24407#24562#0" expanded="true" />
-                <element signature="e#24561#24562#0" expanded="true" />
-                <element signature="e#27581#27735#0" expanded="true" />
-                <element signature="e#27734#27735#0" expanded="true" />
-                <element signature="e#27758#28075#0" expanded="true" />
-                <element signature="e#28074#28075#0" expanded="true" />
+                <element signature="e#22091#22349#0" expanded="true" />
+                <element signature="e#22348#22349#0" expanded="true" />
+                <element signature="e#23158#23297#0" expanded="true" />
+                <element signature="e#23296#23297#0" expanded="true" />
+                <element signature="e#23320#23613#0" expanded="true" />
+                <element signature="e#23612#23613#0" expanded="true" />
+                <element signature="e#24443#24598#0" expanded="true" />
+                <element signature="e#24597#24598#0" expanded="true" />
+                <element signature="e#27617#27771#0" expanded="true" />
+                <element signature="e#27770#27771#0" expanded="true" />
+                <element signature="e#27794#28172#0" expanded="true" />
+                <element signature="e#28171#28172#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -3418,7 +3386,7 @@
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4521158" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4521158" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -3459,14 +3427,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/RichRequest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -3506,18 +3466,18 @@
             <element signature="e#9049#9050#0" expanded="true" />
             <element signature="e#15619#15620#0" expanded="true" />
             <element signature="e#15642#15643#0" expanded="true" />
-            <element signature="e#22055#22313#0" expanded="true" />
-            <element signature="e#22312#22313#0" expanded="true" />
-            <element signature="e#23122#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#23284#23577#0" expanded="true" />
-            <element signature="e#23576#23577#0" expanded="true" />
-            <element signature="e#24407#24562#0" expanded="true" />
-            <element signature="e#24561#24562#0" expanded="true" />
-            <element signature="e#27581#27735#0" expanded="true" />
-            <element signature="e#27734#27735#0" expanded="true" />
-            <element signature="e#27758#28075#0" expanded="true" />
-            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#22091#22349#0" expanded="true" />
+            <element signature="e#22348#22349#0" expanded="true" />
+            <element signature="e#23158#23297#0" expanded="true" />
+            <element signature="e#23296#23297#0" expanded="true" />
+            <element signature="e#23320#23613#0" expanded="true" />
+            <element signature="e#23612#23613#0" expanded="true" />
+            <element signature="e#24443#24598#0" expanded="true" />
+            <element signature="e#24597#24598#0" expanded="true" />
+            <element signature="e#27617#27771#0" expanded="true" />
+            <element signature="e#27770#27771#0" expanded="true" />
+            <element signature="e#27794#28172#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3597,18 +3557,18 @@
             <element signature="e#9049#9050#0" expanded="true" />
             <element signature="e#15619#15620#0" expanded="true" />
             <element signature="e#15642#15643#0" expanded="true" />
-            <element signature="e#22055#22313#0" expanded="true" />
-            <element signature="e#22312#22313#0" expanded="true" />
-            <element signature="e#23122#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#23284#23577#0" expanded="true" />
-            <element signature="e#23576#23577#0" expanded="true" />
-            <element signature="e#24407#24562#0" expanded="true" />
-            <element signature="e#24561#24562#0" expanded="true" />
-            <element signature="e#27581#27735#0" expanded="true" />
-            <element signature="e#27734#27735#0" expanded="true" />
-            <element signature="e#27758#28075#0" expanded="true" />
-            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#22091#22349#0" expanded="true" />
+            <element signature="e#22348#22349#0" expanded="true" />
+            <element signature="e#23158#23297#0" expanded="true" />
+            <element signature="e#23296#23297#0" expanded="true" />
+            <element signature="e#23320#23613#0" expanded="true" />
+            <element signature="e#23612#23613#0" expanded="true" />
+            <element signature="e#24443#24598#0" expanded="true" />
+            <element signature="e#24597#24598#0" expanded="true" />
+            <element signature="e#27617#27771#0" expanded="true" />
+            <element signature="e#27770#27771#0" expanded="true" />
+            <element signature="e#27794#28172#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3691,18 +3651,18 @@
             <element signature="e#9049#9050#0" expanded="true" />
             <element signature="e#15619#15620#0" expanded="true" />
             <element signature="e#15642#15643#0" expanded="true" />
-            <element signature="e#22055#22313#0" expanded="true" />
-            <element signature="e#22312#22313#0" expanded="true" />
-            <element signature="e#23122#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#23284#23577#0" expanded="true" />
-            <element signature="e#23576#23577#0" expanded="true" />
-            <element signature="e#24407#24562#0" expanded="true" />
-            <element signature="e#24561#24562#0" expanded="true" />
-            <element signature="e#27581#27735#0" expanded="true" />
-            <element signature="e#27734#27735#0" expanded="true" />
-            <element signature="e#27758#28075#0" expanded="true" />
-            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#22091#22349#0" expanded="true" />
+            <element signature="e#22348#22349#0" expanded="true" />
+            <element signature="e#23158#23297#0" expanded="true" />
+            <element signature="e#23296#23297#0" expanded="true" />
+            <element signature="e#23320#23613#0" expanded="true" />
+            <element signature="e#23612#23613#0" expanded="true" />
+            <element signature="e#24443#24598#0" expanded="true" />
+            <element signature="e#24597#24598#0" expanded="true" />
+            <element signature="e#27617#27771#0" expanded="true" />
+            <element signature="e#27770#27771#0" expanded="true" />
+            <element signature="e#27794#28172#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3769,18 +3729,18 @@
             <element signature="e#9049#9050#0" expanded="true" />
             <element signature="e#15619#15620#0" expanded="true" />
             <element signature="e#15642#15643#0" expanded="true" />
-            <element signature="e#22055#22313#0" expanded="true" />
-            <element signature="e#22312#22313#0" expanded="true" />
-            <element signature="e#23122#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#23284#23577#0" expanded="true" />
-            <element signature="e#23576#23577#0" expanded="true" />
-            <element signature="e#24407#24562#0" expanded="true" />
-            <element signature="e#24561#24562#0" expanded="true" />
-            <element signature="e#27581#27735#0" expanded="true" />
-            <element signature="e#27734#27735#0" expanded="true" />
-            <element signature="e#27758#28075#0" expanded="true" />
-            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#22091#22349#0" expanded="true" />
+            <element signature="e#22348#22349#0" expanded="true" />
+            <element signature="e#23158#23297#0" expanded="true" />
+            <element signature="e#23296#23297#0" expanded="true" />
+            <element signature="e#23320#23613#0" expanded="true" />
+            <element signature="e#23612#23613#0" expanded="true" />
+            <element signature="e#24443#24598#0" expanded="true" />
+            <element signature="e#24597#24598#0" expanded="true" />
+            <element signature="e#27617#27771#0" expanded="true" />
+            <element signature="e#27770#27771#0" expanded="true" />
+            <element signature="e#27794#28172#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -3844,18 +3804,18 @@
             <element signature="e#9049#9050#0" expanded="true" />
             <element signature="e#15619#15620#0" expanded="true" />
             <element signature="e#15642#15643#0" expanded="true" />
-            <element signature="e#22055#22313#0" expanded="true" />
-            <element signature="e#22312#22313#0" expanded="true" />
-            <element signature="e#23122#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#23284#23577#0" expanded="true" />
-            <element signature="e#23576#23577#0" expanded="true" />
-            <element signature="e#24407#24562#0" expanded="true" />
-            <element signature="e#24561#24562#0" expanded="true" />
-            <element signature="e#27581#27735#0" expanded="true" />
-            <element signature="e#27734#27735#0" expanded="true" />
-            <element signature="e#27758#28075#0" expanded="true" />
-            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#22091#22349#0" expanded="true" />
+            <element signature="e#22348#22349#0" expanded="true" />
+            <element signature="e#23158#23297#0" expanded="true" />
+            <element signature="e#23296#23297#0" expanded="true" />
+            <element signature="e#23320#23613#0" expanded="true" />
+            <element signature="e#23612#23613#0" expanded="true" />
+            <element signature="e#24443#24598#0" expanded="true" />
+            <element signature="e#24597#24598#0" expanded="true" />
+            <element signature="e#27617#27771#0" expanded="true" />
+            <element signature="e#27770#27771#0" expanded="true" />
+            <element signature="e#27794#28172#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -4065,10 +4025,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/taiwanpetadoptionApp/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.8.0/jars/classes.jar!/com/google/firebase/storage/UploadTask.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2315">
+          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/taiwanpetadoptionApp/src/main/java/com/jackpan/TaiwanpetadoptionApp/MainActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17026">
-          <caret line="897" column="62" selection-start-line="897" selection-start-column="62" selection-end-line="897" selection-end-column="62" />
+        <state relative-caret-position="627">
+          <caret line="914" column="74" selection-start-line="914" selection-start-column="74" selection-end-line="914" selection-end-column="74" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3467#3479#0" expanded="true" />
@@ -4080,18 +4048,18 @@
             <element signature="e#9049#9050#0" expanded="true" />
             <element signature="e#15619#15620#0" expanded="true" />
             <element signature="e#15642#15643#0" expanded="true" />
-            <element signature="e#22055#22313#0" expanded="true" />
-            <element signature="e#22312#22313#0" expanded="true" />
-            <element signature="e#23122#23261#0" expanded="true" />
-            <element signature="e#23260#23261#0" expanded="true" />
-            <element signature="e#23284#23577#0" expanded="true" />
-            <element signature="e#23576#23577#0" expanded="true" />
-            <element signature="e#24407#24562#0" expanded="true" />
-            <element signature="e#24561#24562#0" expanded="true" />
-            <element signature="e#27581#27735#0" expanded="true" />
-            <element signature="e#27734#27735#0" expanded="true" />
-            <element signature="e#27758#28075#0" expanded="true" />
-            <element signature="e#28074#28075#0" expanded="true" />
+            <element signature="e#22091#22349#0" expanded="true" />
+            <element signature="e#22348#22349#0" expanded="true" />
+            <element signature="e#23158#23297#0" expanded="true" />
+            <element signature="e#23296#23297#0" expanded="true" />
+            <element signature="e#23320#23613#0" expanded="true" />
+            <element signature="e#23612#23613#0" expanded="true" />
+            <element signature="e#24443#24598#0" expanded="true" />
+            <element signature="e#24597#24598#0" expanded="true" />
+            <element signature="e#27617#27771#0" expanded="true" />
+            <element signature="e#27770#27771#0" expanded="true" />
+            <element signature="e#27794#28172#0" expanded="true" />
+            <element signature="e#28171#28172#0" expanded="true" />
           </folding>
         </state>
       </provider>

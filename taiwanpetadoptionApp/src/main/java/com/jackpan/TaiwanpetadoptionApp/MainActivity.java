@@ -715,7 +715,7 @@ public class MainActivity extends Activity {
 		});
 
 	}
-	private void  setFireBaseDB(){
+	private void  setFireBaseDB(String uri){
 		String url = "https://sevenpeoplebook.firebaseio.com/TaipeiZoo";
 		Firebase mFirebaseRef = new Firebase(url);
 //		Firebase userRef = mFirebaseRef.child("user");
@@ -728,6 +728,7 @@ public class MainActivity extends Activity {
 		Map newPost = new HashMap();
 		newPost.put("name", "hello");
 		newPost.put("age", 21);
+		newPost.put("pic",uri);
 		Map updatedUserData = new HashMap();
 //		updatedUserData.put("3/posts/" + newPostKey, true);
 		updatedUserData.put(newPostKey , newPost);
@@ -911,7 +912,7 @@ public class MainActivity extends Activity {
 					Log.d(TAG, "onSuccess: "+"onSuccess: ");
 					Log.d(TAG, "onSuccess: "+taskSnapshot.getUploadSessionUri());
 					Log.d(TAG, "onSuccess: "+taskSnapshot.getDownloadUrl());
-
+					setFireBaseDB(taskSnapshot.getDownloadUrl().toString());
 				}
 			});
 ////			try {
